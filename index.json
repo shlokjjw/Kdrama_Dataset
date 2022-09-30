@@ -262,6 +262,27 @@
       "director": ["LEE TAE HWAN"]
   }
 
+	{
+  "id": 5,
+  "name": "The Heirs",
+  "imdbRating":7.5,
+  "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
+  
+
+  "genre":["Drama","Romance","Teen"],
+
+  "platform":["Netflix","MxPlayer"],
+  "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
+  "casting": {
+      "actors": [
+        "Lee Min Ho",
+        "Park Shin Hye",
+        "Kim Woo Bin",
+        "Kang Min Hyuk",
+        "Kang Ha Nuel"
+      ],
+      "director": ["Kang Shin Ho","Boo Sung Chul"]
+  }
 }]
 
 
