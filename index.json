@@ -23,10 +23,10 @@
         "releaseDate":"9 Oct 2013"
     },
 {
-    "id": 1,
-        "name":"Hotel Del Luna"
+    "id": 2,
+        "name":"Hotel Del Luna",
         "imdbRating": 8.2,
-        "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world."
+        "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
         "genre":["Romantic Comedy","Dark Fantasy"],
         "platform":["Netflix"],
         "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
@@ -43,9 +43,35 @@
             "director": ["Oh Choong Hwan"]
         },
         "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
-        "episodeCount":16
-        "seasons":1
+        "episodeCount":16,
+        "seasons":1,
         "releaseDate":"13 July 2019"
-    }
+    },
+    {
+        "id": 3,
+            "name":"Prison Playbook",
+            "imdbRating": 8.5,
+            "description":"Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
+            "genre":["prison"],
+            "platform":["tvN"],
+            "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+            "casting": {
+                "actors": [
+                  "Park Hae-soo ",
+                  "Lee Tae-sun",
+                  "Ye Soo-jung",
+                  "Kim Kyung-nam",
+                  "Lim Hwa-young",
+                  "Shin Rin-ah ",
+                  "Krystal Jung",
+                  
+                ],
+                "director": ["Shin Won-Ho"]
+            },
+            "poster":"https://asianwiki.com/images/b/be/Wise_Prison_Life-P1.jpg",
+            "episodeCount":16,
+            "seasons":1,
+            "releaseDate":"November 22, 2017"
+        }
 ]
  
