@@ -147,7 +147,33 @@
   "releaseDate":"April 1"
 },
 {
-"id": 6,
+  "id": 2,
+        "name":"Hotel Del Luna",
+        "imdbRating": 8.2,
+        "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+        "genre":["Romantic Comedy","Dark Fantasy"],
+        "platform":["Youtube"],
+        "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+        "casting": {
+            "actors": [
+              "Yeo Jin Goo",
+              "Lee Ji Eun",
+              "Jung Dong Hwan",
+              "Shin Jung Guen",
+              "Bae Hae Sun",
+              "Pyo Ji Hoon",
+              "Kang Mi Na"
+            ],
+            "director": ["Oh Choong Hwan"]
+        },
+        "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+        "episodeCount":16,
+        "seasons":1,
+        "releaseDate":"13 July 2019"
+    },
+
+    {
+	"id": 6,
   "name":"Vincenzo",
   "imdbRating": 8.4,
   "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
