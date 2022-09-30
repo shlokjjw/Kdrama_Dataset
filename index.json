@@ -1,543 +1,568 @@
 [{
-          "id": 1,
-          "name": "The Heirs",
-          "imdbRating":7.5,
-          "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
-          "genre":["Drama","Romance","Teen"],
-          "platform":["Netflix","MxPlayer"],
-          "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
-          "casting": {
-              "actors": [
-                "Lee Min Ho",
-                "Park Shin Hye",
-                "Kim Woo Bin",
-                "Kang Min Hyuk",
-                "Kang Ha Nuel",
-                "Park Hyung Sik"
-              ],
-              "director": ["Kang Shin Ho","Boo Sung Chul"]
-          },
-          "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
-          "episodeCount": 20,
-          "seasons": 1,
-          "releaseDate":"9 Oct 2013"
-      },
+  "id": 1,
+  "name": "The Heirs",
+  "imdbRating":7.5,
+  "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
+  "genre":["Drama","Romance","Teen"],
+  "platform":["Netflix","MxPlayer"],
+  "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
+  "casting": {
+      "actors": [
+        "Lee Min Ho",
+        "Park Shin Hye",
+        "Kim Woo Bin",
+        "Kang Min Hyuk",
+        "Kang Ha Nuel",
+        "Park Hyung Sik"
+      ],
+      "director": ["Kang Shin Ho","Boo Sung Chul"]
+  },
+  "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
+  "episodeCount": 20,
+  "seasons": 1,
+  "releaseDate":"9 Oct 2013"
+},
 
-        {
-          "id": 1,
-            "name": "The Heirs",
-            "imdbRating":7.5,
-            "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
-            "genre":["Drama","Romance","Teen"],
-            "platform":["Netflix","MxPlayer"],
-            "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
-            "casting": {
-                "actors": [
-                  "Lee Min Ho",
-                  "Park Shin Hye",
-                  "Kim Woo Bin",
-                  "Kang Min Hyuk",
-                  "Kang Ha Nuel",
-                  "Park Hyung Sik"
-                ],
-                "director": ["Kang Shin Ho","Boo Sung Chul"]
-            },
-            "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
-            "episodeCount": 20,
-            "seasons": 1,
-            "releaseDate":"9 Oct 2013"
-        },
-    {
-        "id": 2,
-            "name":"Hotel Del Luna",
-            "imdbRating": 8.2,
-            "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
-            "genre":["Romantic Comedy","Dark Fantasy"],
-            "platform":["Netflix"]
+{
+  "id": 1,
+    "name": "The Heirs",
+    "imdbRating":7.5,
+    "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
+    "genre":["Drama","Romance","Teen"],
+    "platform":["Netflix","MxPlayer"],
+    "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
+    "casting": {
+        "actors": [
+          "Lee Min Ho",
+          "Park Shin Hye",
+          "Kim Woo Bin",
+          "Kang Min Hyuk",
+          "Kang Ha Nuel",
+          "Park Hyung Sik"
+        ],
+        "director": ["Kang Shin Ho","Boo Sung Chul"]
     },
-  
-      {
-        "id": 1,
-      "name": "The Heirs",
-      "imdbRating":7.5,
-      "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
-      
-    
-      "genre":["Drama","Romance","Teen"],
-    
-      "platform":["Netflix","MxPlayer"],
-      "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
-      "casting": {
-          "actors": [
-            "Lee Min Ho",
-            "Park Shin Hye",
-            "Kim Woo Bin",
-            "Kang Min Hyuk",
-            "Kang Ha Nuel"
-          ],
-          "director": ["Kang Shin Ho","Boo Sung Chul"]
-      },
-      "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
-      "episodeCount": 20,
-      "seasons": 1,
-      "releaseDate":"9 Oct 2013"
-    },
-    {
-    "id": 2,
-      "name":"Hotel Del Luna",
-      "imdbRating": 8.2,
-      "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
-      "genre":["Romantic Comedy","Dark Fantasy"],
-      "platform":["Netflix"],
-      "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
-      "casting": {
-          "actors": [
-            "Yeo Jin Goo",
-            "Lee Ji Eun",
-            "Jung Dong Hwan",
-            "Shin Jung Guen",
-            "Bae Hae Sun",
-            "Pyo Ji Hoon",
-            "Kang Mi Na"
-          ],
-          "director": ["Oh Choong Hwan"]
-      },
-      "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
-      "episodeCount":16,
-      "seasons":1,
-      "releaseDate":"13 July 2019"
-    },
-    {
-      "id": 3,
-          "name":"Prison Playbook",
-          "imdbRating": 8.5,
-          "description":"Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
-          "genre":["prison"],
-          "platform":["tvN"],
-          "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
-          "casting": {
-              "actors": [
-                "Park Hae-soo ",
-                "Lee Tae-sun",
-                "Ye Soo-jung",
-                "Kim Kyung-nam",
-                "Lim Hwa-young",
-                "Shin Rin-ah ",
-                "Krystal Jung"
-                
-              ],
-              "director": ["Shin Won-Ho"]
-          },
-          "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
-          "episodeCount":16,
-          "seasons":1,
-          "releaseDate":"13 July 2019"
-      },
-  {
-           "id": 3,
-          "name":"what's wrong with secretary kim",
-          "imdbRating": 9.7,
-          "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
-          "genre":["Romantic Comedy"],
-          "platform":["viki"],
-          "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-          "casting": {
-              "actors": [
-                "Park Seo Joon",
-                " Park Min Young"
-              ],
-              "director": ["LEE TAE HWAN"]
-          },
-          "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-          "episodeCount":16,
-          "seasons":1,
-          "releaseDate":"2018"
-          },
-         
-         {  
-          "name":"Tomorrow",
-          "imdbRating": 7.8,
-          "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
-          "genre":[" Fantasy television"],
-          "poster":"https://asianwiki.com/images/b/be/Wise_Prison_Life-P1.jpg",
-          "episodeCount":16,
-          "seasons":1,
-          "releaseDate":"November 22, 2017"
-      },
-    
-    {
-      "id": 3,
-          "name":"Kill Heel",
-          "imdbRating": 6.5,
-          "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
-          "genre":["Drama, Thriller"],
-          "platform":["Netflix"],
-          "trailer":"https://www.youtube.com/watch?v=veCsMgntmpM",
-          "casting": {
-              "actors": [
-                  "Kim Ha Neul",
-                  "Kim Sung Ryung",
-                  "Lee Hye Young"
-                
-              ],
-              "director": ["Noh Do Cheol"]
-          },
-          "poster":"https://www.google.com/search?rlz=1C1GCEJ_enIN1001IN1001&sxsrf=ALiCzsbAE3zKemGq9ESoYM1v7s8tyaD2FA:1664557195641&source=univ&tbm=isch&q=kill+heel+korean+poster+link&fir=jjdMoH7OKhGXSM",
-          "episodeCount":14,
-          "seasons":1,
-          "releaseDate":"April 1"
-      },
-  {
-      "id": 3,
-          "name":"Vincenzo",
-          "imdbRating": 8.4,
-          "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
-          "genre":["Crime drama, dark fantacy"],
-          "platform":["Netflix"],
-          "trailer":"https://youtu.be/S12-4mXCNj4",
-          "casting": {
-              "actors": [
-                "Song Joong-ki",
-                "jeon yeo-been",
-                "ok taec-yeon",
-                "kim yeo-jin",
-                "kwak dong-yeon",
-                "jo han-chul"
-              ],
-              "director": ["Kim hee-won"]
-          },
-          "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
-          "episodeCount":20,
-          "seasons":1,
-          "releaseDate":"21 feb 2021"
-      },
-  {
-      "id": 4,
-          "name":"Extraordinary You",
-          "imdbRating": 7.8,
-          "description":"They begin their mysterious adventure to find out the secret of the romance cartoon world, and they try to get their independent lives back",
-          "genre":["Romance,Comedy,Fantasy"],
-          "platform":["Voot"],
-          "trailer":"https://www.youtube.com/watch?v=a_1Tf3Rhf6E",
-          "casting": {
-              "actors": [
-                "Kim Hye-yoo",
-                "Rowoon",
-                "Lee Jae-wook",
-                "kim Young-dae",
-                "Lee Na-eun",
-                "Kim-Ji-in"
-              ],
-              "director": ["Kim sang-hyeop"]
-          },
-          "poster":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fthewordyhabitat.com%2Fwp-content%2Fuploads%2F2021%2F02%2Fextraordinary-you-poster-1.jpg&imgrefurl=https%3A%2F%2Fthewordyhabitat.com%2Fextraordinary-you-kdrama-review%2F&tbnid=HBArIWjNyl2UoM&vet=12ahUKEwinw4n8jL36AhXj53MBHViwDrIQMygJegUIARDgAQ..i&docid=7FOnTJzIQe-XOM&w=426&h=597&q=extraordinary%20you&ved=2ahUKEwinw4n8jL36AhXj53MBHViwDrIQMygJegUIARDgAQ",
-          "episodeCount":32,
-          "seasons":1,
-          "releaseDate":"2 Oct 2019"
-      },
-    
-    {
-       "id": 4,
-      "name":"what's wrong with secretary kim",
-      "imdbRating": 9.7,
-      "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
-      "genre":["Romantic Comedy"],
-      "platform":["viki"],
-      "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-      "casting": {
-          "actors": [
-            "Park Seo Joon",
-            " Park Min Young"
-          ],
-          "director": ["LEE TAE HWAN"]
-      },
-      "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-      "episodeCount":16,
-      "seasons":1,
-      "releaseDate":"2018"
-      },
-     
-     {  
-     
-     "id":5,
-      "name":"Tomorrow",
-      "imdbRating": 7.8,
-      "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
-      "genre":["Fantasy television"],
-      "platform":["Netflix"],
-      "trailer":"https://youtu.be/BsNRPkOV_Mo",
-      "casting": {
-          "actors": [
-            "Kim Hee-sun ",
-            "Rowoon ",
-            "Lee Soo-hyuk ",
-            "Shin Jung Guen",
-            "Park Sang-hoon "
-           
-          ],
-          "director": ["Kim Tae-yoon",
-    "Sung Chi-wook"]
-      },
-      "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
-      "episodeCount":16,
-      "seasons":1,
-      "releaseDate":"April 1"
-    },
-    {
-      "id": 2,
-            "name":"Hotel Del Luna",
-            "imdbRating": 8.2,
-            "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
-            "genre":["Romantic Comedy","Dark Fantasy"],
-            "platform":["Youtube"],
-            "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
-            "casting": {
-                "actors": [
-                  "Yeo Jin Goo",
-                  "Lee Ji Eun",
-                  "Jung Dong Hwan",
-                  "Shin Jung Guen",
-                  "Bae Hae Sun",
-                  "Pyo Ji Hoon",
-                  "Kang Mi Na"
-                ],
-                "director": ["Oh Choong Hwan"]
-            },
-            "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
-            "episodeCount":16,
-            "seasons":1,
-            "releaseDate":"13 July 2019"
-        },
-    {
-        "id": 6,
-      "name":"Vincenzo",
-      "imdbRating": 8.4,
-      "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
-      "genre":["Crime drama, dark fantacy"],
-      "platform":["Netflix"],
-      "trailer":"https://youtu.be/S12-4mXCNj4",
-      "casting": {
-          "actors": [
-            "Song Joong-ki",
-            "jeon yeo-been",
-            "ok taec-yeon",
-            "kim yeo-jin",
-            "kwak dong-yeon",
-            "jo han-chul"
-          ],
-          "director": ["Kim hee-won"]
-      },
-      "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
-      "episodeCount":20,
-      "seasons":1,
-      "releaseDate":"21 feb 2021"
-    },
-    {
-             "id": 3,
-            "name":"what's wrong with secretary kim",
-            "imdbRating": 9.7,
-            "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
-            "genre":["Romantic Comedy"],
-            "platform":["viki"],
-            "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-            "casting": {
-                "actors": [
-                  "Park Seo Joon",
-                  " Park Min Young"
-                ],
-                "director": ["LEE TAE HWAN"]
-            },
-            "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-            "episodeCount":16,
-            "seasons":1,
-            "releaseDate":"2018"
-            },
-           
-           {  
-            "name":"Tomorrow",
-            "imdbRating": 7.8,
-            "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
-            "genre":[" Fantasy television"],
-            "platform":["Netflix"],
-            "trailer":"https://youtu.be/BsNRPkOV_Mo",
-            "casting": {
-                "actors": [
-                  "Kim Hee-sun ",
-                  "Rowoon ",
-                  "Lee Soo-hyuk ",
-                  "Shin Jung Guen",
-                  "Park Sang-hoon "
-                 
-                ],
-                "director": ["Kim Tae-yoon",
-    "Sung Chi-wook"]
-            },
-            "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
-            "episodeCount":16,
-            "seasons":1,
-            "releaseDate":"April 1"
-        },
-   
-        {
-        "id": 4,
-            "name":"Vincenzo",
-            "imdbRating": 8.4,
-            "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
-            "genre":["Crime drama, dark fantacy"],
-            "platform":["Hansicinema"],
-            "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
-            "casting": {
-                "actors": [
-                  "Yoon Jung-hee ",
-                  "Jung Gyu-woon",
-                  "Kim Suk-hoon",
-                  "Go Doo-shim ",
-                  "kwak dong-yeon",
-                  "jo han-chul"
-                ],
-                "director": ["Kim Jong-chang"]
-            },
-            "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
-            "episodeCount":20,
-            "seasons":1,
-            "releaseDate":"21 feb 2021"
-        },
-    {
-        "id": 4,
-            "name":"Crash Landing On You",
-            "imdbRating": 8.7,
-            "description":"The stars of 'Crash Landing On You' make wedding plans. Actors Hyun Bin and Son Ye-jin who co-starred in the romantic 2019 Korean drama Crash Landing On You have announced their intention to wed. The drama focused on the character Se-ri, a South Korean heiress, played by Son, who accidentally lands in North Korea.",
-      "genre":["Romantic Comedy"],
-            "platform":["Netflix"],
-            "trailer":"https://www.youtube.com/watch?v=eXMjTXL2Vks",
-            "casting": {
-                "actors": [
-                  "Hyun Bin",
-                  "Son Ye-jin",
-                  "Sio Ji-hye",
-                  "kim Jung-hyun"
-                ],
-                "director": ["Lee Jeong-hyo"]
-            },
-            "poster":"data:image/jpeg;base64,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",
-            "episodeCount":16,
-            "seasons":1,
-            "releaseDate":"December 14, 2019"
-        },
-  
-        {
-        "id": 4,
-            "name":"A Happy women",
-            "imdbRating": 7.6,
-            "description":"As the titular happy woman Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
-            "genre":["Romantic Comedy,Drama"],
-            "platform":["Hansicinema"],
-            "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
-            "casting": {
-                "actors": [
-                  "Yoon Jung-hee ",
-                  "Jung Gyu-woon",
-                  "Kim Suk-hoon",
-                  "Go Doo-shim ",
-                  "kwak dong-yeon",
-                  "jo han-chul"
-                ],
-                "director": ["Kim Jong-chang"]
-            },
-            "poster":"https://images.app.goo.gl/q2VYZrodrhe5s7",
-            "episodeCount":58,
-            "seasons":1,
-            "releaseDate":"January 6 –July 21, 2007"
-        },
+    "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
+    "episodeCount": 20,
+    "seasons": 1,
+    "releaseDate":"9 Oct 2013"
+},
+{
+"id": 2,
+    "name":"Hotel Del Luna",
+    "imdbRating": 8.2,
+    "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+    "genre":["Romantic Comedy","Dark Fantasy"],
+    "platform":["Netflix"]
+},
+
+{
+"id": 1,
+"name": "The Heirs",
+"imdbRating":7.5,
+"description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
+
+
+"genre":["Drama","Romance","Teen"],
+
+"platform":["Netflix","MxPlayer"],
+"trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
+"casting": {
+  "actors": [
+    "Lee Min Ho",
+    "Park Shin Hye",
+    "Kim Woo Bin",
+    "Kang Min Hyuk",
+    "Kang Ha Nuel"
+  ],
+  "director": ["Kang Shin Ho","Boo Sung Chul"]
+},
+"poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
+"episodeCount": 20,
+"seasons": 1,
+"releaseDate":"9 Oct 2013"
+},
+{
+"id": 2,
+"name":"Hotel Del Luna",
+"imdbRating": 8.2,
+"description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+"genre":["Romantic Comedy","Dark Fantasy"],
+"platform":["Netflix"],
+"trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+"casting": {
+  "actors": [
+    "Yeo Jin Goo",
+    "Lee Ji Eun",
+    "Jung Dong Hwan",
+    "Shin Jung Guen",
+    "Bae Hae Sun",
+    "Pyo Ji Hoon",
+    "Kang Mi Na"
+  ],
+  "director": ["Oh Choong Hwan"]
+},
+"poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+"episodeCount":16,
+"seasons":1,
+"releaseDate":"13 July 2019"
+},
+{
+"id": 3,
+  "name":"Prison Playbook",
+  "imdbRating": 8.5,
+  "description":"Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
+  "genre":["prison"],
+  "platform":["tvN"],
+  "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+  "casting": {
+      "actors": [
+        "Park Hae-soo ",
+        "Lee Tae-sun",
+        "Ye Soo-jung",
+        "Kim Kyung-nam",
+        "Lim Hwa-young",
+        "Shin Rin-ah ",
+        "Krystal Jung"
         
-    {
-        "id": 5,
-            "name":"Goblin The Lonely And Great God",
-            "imdbRating": "9.7",
-            "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
-            "genre":["Korean drama, Romance, Drama, Fantasy, Comedy"],
-            "platform":["Netflix"],
-            "trailer":"https://www.imdb.com/title/tt5994364/",
-            "casting": {
-                "actors": [
-                  "Gong Yoo",
-                  "Kim Go‑eun"
-                ],
-                "director": ["Yun ha rim"]
-            },
-            "poster":"https://www.google.com/search?q=goblin&sa=X&biw=1366&bih=653&tbm=isch&source=iu&ictx=1&vet=1&fir=v-tt4lrf4t1rCM%252CssiLFK4vpREz4M%252C%252Fg%252F11byyl7tc4%253BeTPWzjDFyV9XZM%252CaX56W9Bk3KIe4M%252C_%253BLhj8Q9UP8Z_3yM%252CsuM7HxBo_SBltM%252C_%253B5SDd_b63H6qYwM%252C8wwaLT_U28cMMM%252C_%253BnlWxpdJXCID0JM%252CV3Db3CZBuCgTxM%252C_%253B72v5U7FoiJYuxM%252CQnfoQPGUIQN7oM%252C_%253BBwGOfEln4REgCM%252CEINQN1GrylfaSM%252C_&usg=AI4_-kSik_7zZmRClmU-gXhwpMVCE3Q1hg&ved=2ahUKEwjAnMOJir36AhU6xnMBHQOZD3sQ_B16BQiIARAB#imgrc=v-tt4lrf4t1rCM",
-            "episodeCount":10,
-            "seasons":1,
-            "releaseDate":"21 feb 2021"
-        },
-    
-        {
-        "id": 10,
-      "name":"Vincenzo",
-      "imdbRating": 8.4,
-      "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
-      "genre":["Crime drama, dark fantacy"],
-      "platform":["Netflix"],
-      "trailer":"https://youtu.be/S12-4mXCNj4",
-      "casting": {
-          "actors": [
-            "Song Joong-ki",
-            "jeon yeo-been",
-            "ok taec-yeon",
-            "kim yeo-jin",
-            "kwak dong-yeon",
-            "jo han-chul"
-          ],
-          "director": ["Kim hee-won"]
-      },
-      "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
-      "episodeCount":20,
-      "seasons":1,
-      "releaseDate":"21 feb 2021"
+      ],
+      "director": ["Shin Won-Ho"]
+  },
+  "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"13 July 2019"
+},
+{
+   "id": 3,
+  "name":"what's wrong with secretary kim",
+  "imdbRating": 9.7,
+  "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+  "genre":["Romantic Comedy"],
+  "platform":["viki"],
+  "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+  "casting": {
+      "actors": [
+        "Park Seo Joon",
+        " Park Min Young"
+      ],
+      "director": ["LEE TAE HWAN"]
+  },
+  "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"2018"
+  },
+ 
+ {  
+  "name":"Tomorrow",
+  "imdbRating": 7.8,
+  "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
+  "genre":[" Fantasy television"],
+  "poster":"https://asianwiki.com/images/b/be/Wise_Prison_Life-P1.jpg",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"November 22, 2017"
+},
+
+{
+"id": 3,
+  "name":"Kill Heel",
+  "imdbRating": 6.5,
+  "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
+  "genre":["Drama, Thriller"],
+  "platform":["Netflix"],
+  "trailer":"https://www.youtube.com/watch?v=veCsMgntmpM",
+  "casting": {
+      "actors": [
+          "Kim Ha Neul",
+          "Kim Sung Ryung",
+          "Lee Hye Young"
+        
+      ],
+      "director": ["Noh Do Cheol"]
+  },
+  "poster":"https://www.google.com/search?rlz=1C1GCEJ_enIN1001IN1001&sxsrf=ALiCzsbAE3zKemGq9ESoYM1v7s8tyaD2FA:1664557195641&source=univ&tbm=isch&q=kill+heel+korean+poster+link&fir=jjdMoH7OKhGXSM",
+  "episodeCount":14,
+  "seasons":1,
+  "releaseDate":"April 1"
+},
+{
+"id": 3,
+  "name":"Vincenzo",
+  "imdbRating": 8.4,
+  "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+  "genre":["Crime drama, dark fantacy"],
+  "platform":["Netflix"],
+  "trailer":"https://youtu.be/S12-4mXCNj4",
+  "casting": {
+      "actors": [
+        "Song Joong-ki",
+        "jeon yeo-been",
+        "ok taec-yeon",
+        "kim yeo-jin",
+        "kwak dong-yeon",
+        "jo han-chul"
+      ],
+      "director": ["Kim hee-won"]
+  },
+  "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+  "episodeCount":20,
+  "seasons":1,
+  "releaseDate":"21 feb 2021"
+},
+{
+"id": 4,
+  "name":"Extraordinary You",
+  "imdbRating": 7.8,
+  "description":"They begin their mysterious adventure to find out the secret of the romance cartoon world, and they try to get their independent lives back",
+  "genre":["Romance,Comedy,Fantasy"],
+  "platform":["Voot"],
+  "trailer":"https://www.youtube.com/watch?v=a_1Tf3Rhf6E",
+  "casting": {
+      "actors": [
+        "Kim Hye-yoo",
+        "Rowoon",
+        "Lee Jae-wook",
+        "kim Young-dae",
+        "Lee Na-eun",
+        "Kim-Ji-in"
+      ],
+      "director": ["Kim sang-hyeop"]
+  },
+  "poster":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fthewordyhabitat.com%2Fwp-content%2Fuploads%2F2021%2F02%2Fextraordinary-you-poster-1.jpg&imgrefurl=https%3A%2F%2Fthewordyhabitat.com%2Fextraordinary-you-kdrama-review%2F&tbnid=HBArIWjNyl2UoM&vet=12ahUKEwinw4n8jL36AhXj53MBHViwDrIQMygJegUIARDgAQ..i&docid=7FOnTJzIQe-XOM&w=426&h=597&q=extraordinary%20you&ved=2ahUKEwinw4n8jL36AhXj53MBHViwDrIQMygJegUIARDgAQ",
+  "episodeCount":32,
+  "seasons":1,
+  "releaseDate":"2 Oct 2019"
+},
+
+{
+"id": 4,
+"name":"what's wrong with secretary kim",
+"imdbRating": 9.7,
+"description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+"genre":["Romantic Comedy"],
+"platform":["viki"],
+"trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+"casting": {
+  "actors": [
+    "Park Seo Joon",
+    " Park Min Young"
+  ],
+  "director": ["LEE TAE HWAN"]
+},
+"poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+"episodeCount":16,
+"seasons":1,
+"releaseDate":"2018"
+},
+
+{  
+
+"id":5,
+"name":"Tomorrow",
+"imdbRating": 7.8,
+"description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
+"genre":["Fantasy television"],
+"platform":["Netflix"],
+"trailer":"https://youtu.be/BsNRPkOV_Mo",
+"casting": {
+  "actors": [
+    "Kim Hee-sun ",
+    "Rowoon ",
+    "Lee Soo-hyuk ",
+    "Shin Jung Guen",
+    "Park Sang-hoon "
+   
+  ],
+  "director": ["Kim Tae-yoon",
+"Sung Chi-wook"]
+},
+"poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
+"episodeCount":16,
+"seasons":1,
+"releaseDate":"April 1"
+},
+{
+"id": 2,
+    "name":"Hotel Del Luna",
+    "imdbRating": 8.2,
+    "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+    "genre":["Romantic Comedy","Dark Fantasy"],
+    "platform":["Youtube"],
+    "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+    "casting": {
+        "actors": [
+          "Yeo Jin Goo",
+          "Lee Ji Eun",
+          "Jung Dong Hwan",
+          "Shin Jung Guen",
+          "Bae Hae Sun",
+          "Pyo Ji Hoon",
+          "Kang Mi Na"
+        ],
+        "director": ["Oh Choong Hwan"]
     },
-    {
-    "id": 11,
-      "name":"Our secret",
-      "imdbRating": 8.6,
-      "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
-      "genre":[" Romance, Life, Youth"],
-      "platform":["Netflix"],
-      "trailer":"https://www.youtube.com/watch?v=Wy8s1pI8bRo",
-      "casting": {
-          "actors": [
-            "Chen zhe yuan",
-            "rainbow zu",
-            "wang yi lan",
-            "kim yeo-jin",
-            "fan xhi xin",
-            "liu zhi wei"
-          ],
-          "director": ["zhang xiao an"]
-      },
-      "poster":"https://i.mydramalist.com/2lbz2_4c.jpg?v=1",
-      "episodeCount":24,
-      "seasons":1,
-      "releaseDate":"10 aug 2021"
+    "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+    "episodeCount":16,
+    "seasons":1,
+    "releaseDate":"13 July 2019"
+},
+{
+"id": 6,
+"name":"Vincenzo",
+"imdbRating": 8.4,
+"description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+"genre":["Crime drama, dark fantacy"],
+"platform":["Netflix"],
+"trailer":"https://youtu.be/S12-4mXCNj4",
+"casting": {
+  "actors": [
+    "Song Joong-ki",
+    "jeon yeo-been",
+    "ok taec-yeon",
+    "kim yeo-jin",
+    "kwak dong-yeon",
+    "jo han-chul"
+  ],
+  "director": ["Kim hee-won"]
+},
+"poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+"episodeCount":20,
+"seasons":1,
+"releaseDate":"21 feb 2021"
+},
+{
+     "id": 3,
+    "name":"what's wrong with secretary kim",
+    "imdbRating": 9.7,
+    "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+    "genre":["Romantic Comedy"],
+    "platform":["viki"],
+    "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+    "casting": {
+        "actors": [
+          "Park Seo Joon",
+          " Park Min Young"
+        ],
+        "director": ["LEE TAE HWAN"]
     },
-    
-    
-    {
-      "id": 12,
-      "name":"what's wrong with secretary tom",
-      "imdbRating": 9.7,
-      "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
-      "genre":["Romantic Comedy"],
-      "platform":["viki"],
-      "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-      "casting": {
-          "actors": [
-            "Park Seo Joon",
-            " Park Min Young"
-          ],
-          "director": ["LEE TAE HWAN"]
-      }
-    
-    }]
-    
-    
-    
+    "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+    "episodeCount":16,
+    "seasons":1,
+    "releaseDate":"2018"
+    },
+   
+   {  
+    "name":"Tomorrow",
+    "imdbRating": 7.8,
+    "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
+    "genre":[" Fantasy television"],
+    "platform":["Netflix"],
+    "trailer":"https://youtu.be/BsNRPkOV_Mo",
+    "casting": {
+        "actors": [
+          "Kim Hee-sun ",
+          "Rowoon ",
+          "Lee Soo-hyuk ",
+          "Shin Jung Guen",
+          "Park Sang-hoon "
+         
+        ],
+        "director": ["Kim Tae-yoon",
+"Sung Chi-wook"]
+    },
+    "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
+    "episodeCount":16,
+    "seasons":1,
+    "releaseDate":"April 1"
+},
+
+{
+"id": 4,
+    "name":"Vincenzo",
+    "imdbRating": 8.4,
+    "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+    "genre":["Crime drama, dark fantacy"],
+    "platform":["Hansicinema"],
+    "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
+    "casting": {
+        "actors": [
+          "Yoon Jung-hee ",
+          "Jung Gyu-woon",
+          "Kim Suk-hoon",
+          "Go Doo-shim ",
+          "kwak dong-yeon",
+          "jo han-chul"
+        ],
+        "director": ["Kim Jong-chang"]
+    },
+    "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+    "episodeCount":20,
+    "seasons":1,
+    "releaseDate":"21 feb 2021"
+},
+{
+"id": 4,
+    "name":"Crash Landing On You",
+    "imdbRating": 8.7,
+    "description":"The stars of 'Crash Landing On You' make wedding plans. Actors Hyun Bin and Son Ye-jin who co-starred in the romantic 2019 Korean drama Crash Landing On You have announced their intention to wed. The drama focused on the character Se-ri, a South Korean heiress, played by Son, who accidentally lands in North Korea.",
+"genre":["Romantic Comedy"],
+    "platform":["Netflix"],
+    "trailer":"https://www.youtube.com/watch?v=eXMjTXL2Vks",
+    "casting": {
+        "actors": [
+          "Hyun Bin",
+          "Son Ye-jin",
+          "Sio Ji-hye",
+          "kim Jung-hyun"
+        ],
+        "director": ["Lee Jeong-hyo"]
+    },
+    "poster":"data:image/jpeg;base64,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",
+    "episodeCount":16,
+    "seasons":1,
+    "releaseDate":"December 14, 2019"
+},
+
+{
+"id": 4,
+    "name":"A Happy women",
+    "imdbRating": 7.6,
+    "description":"As the titular happy woman Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
+    "genre":["Romantic Comedy,Drama"],
+    "platform":["Hansicinema"],
+    "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
+    "casting": {
+        "actors": [
+          "Yoon Jung-hee ",
+          "Jung Gyu-woon",
+          "Kim Suk-hoon",
+          "Go Doo-shim ",
+          "kwak dong-yeon",
+          "jo han-chul"
+        ],
+        "director": ["Kim Jong-chang"]
+    },
+    "poster":"https://images.app.goo.gl/q2VYZrodrhe5s7",
+    "episodeCount":58,
+    "seasons":1,
+    "releaseDate":"January 6 –July 21, 2007"
+},
+
+{
+"id": 5,
+    "name":"Goblin The Lonely And Great God",
+    "imdbRating": "9.7",
+    "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
+    "genre":["Korean drama, Romance, Drama, Fantasy, Comedy"],
+    "platform":["Netflix"],
+    "trailer":"https://www.imdb.com/title/tt5994364/",
+    "casting": {
+        "actors": [
+          "Gong Yoo",
+          "Kim Go‑eun"
+        ],
+        "director": ["Yun ha rim"]
+    },
+    "poster":"https://www.google.com/search?q=goblin&sa=X&biw=1366&bih=653&tbm=isch&source=iu&ictx=1&vet=1&fir=v-tt4lrf4t1rCM%252CssiLFK4vpREz4M%252C%252Fg%252F11byyl7tc4%253BeTPWzjDFyV9XZM%252CaX56W9Bk3KIe4M%252C_%253BLhj8Q9UP8Z_3yM%252CsuM7HxBo_SBltM%252C_%253B5SDd_b63H6qYwM%252C8wwaLT_U28cMMM%252C_%253BnlWxpdJXCID0JM%252CV3Db3CZBuCgTxM%252C_%253B72v5U7FoiJYuxM%252CQnfoQPGUIQN7oM%252C_%253BBwGOfEln4REgCM%252CEINQN1GrylfaSM%252C_&usg=AI4_-kSik_7zZmRClmU-gXhwpMVCE3Q1hg&ved=2ahUKEwjAnMOJir36AhU6xnMBHQOZD3sQ_B16BQiIARAB#imgrc=v-tt4lrf4t1rCM",
+    "episodeCount":10,
+    "seasons":1,
+    "releaseDate":"21 feb 2021"
+},
+{
+"id": 15,
+"name": "Strong Women Do Bong Soon",
+"imdbRating": 8.2,
+"description": "A women born with superhuman strength is hired by the CEO of a gaming company,to be his bodyguard",
+"genre": ["Romantic comedy, Action, Fantasy, Thriller,Crime film"],
+"platform": ["Netflix"],
+"trailer":" https://www.youtube.com/watch?v=ysJzkl-SU1Q",
+"casting": {
+"actors":[
+"Park Bo young",
+"Park Hyung Sik",
+"Ji soo",
+"Seol In-ah",
+"Yoo In soo",
+"Shim Hye-Jin",
+"Kim Won Hae"
+],
+"directors": ["Lee Hyung min"]
+},
+"poster":"https://en.wikipedia.org/wiki/Strong_Girl_Bong-soon#/media/File:StrongWomanDoBong-soon_(Main_poster)",
+"episodeCount":16,
+"seasons":1,
+"releaseDate":"24 February 2017"
+},
+
+{
+"id": 10,
+"name":"Vincenzo",
+"imdbRating": 8.4,
+"description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+"genre":["Crime drama, dark fantacy"],
+"platform":["Netflix"],
+"trailer":"https://youtu.be/S12-4mXCNj4",
+"casting": {
+  "actors": [
+    "Song Joong-ki",
+    "jeon yeo-been",
+    "ok taec-yeon",
+    "kim yeo-jin",
+    "kwak dong-yeon",
+    "jo han-chul"
+  ],
+  "director": ["Kim hee-won"]
+},
+"poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+"episodeCount":20,
+"seasons":1,
+"releaseDate":"21 feb 2021"
+},
+{
+"id": 11,
+"name":"Our secret",
+"imdbRating": 8.6,
+"description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
+"genre":[" Romance, Life, Youth"],
+"platform":["Netflix"],
+"trailer":"https://www.youtube.com/watch?v=Wy8s1pI8bRo",
+"casting": {
+  "actors": [
+    "Chen zhe yuan",
+    "rainbow zu",
+    "wang yi lan",
+    "kim yeo-jin",
+    "fan xhi xin",
+    "liu zhi wei"
+  ],
+  "director": ["zhang xiao an"]
+},
+"poster":"https://i.mydramalist.com/2lbz2_4c.jpg?v=1",
+"episodeCount":24,
+"seasons":1,
+"releaseDate":"10 aug 2021"
+},
+
+
+{
+"id": 12,
+"name":"what's wrong with secretary tom",
+"imdbRating": 9.7,
+"description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+"genre":["Romantic Comedy"],
+"platform":["viki"],
+"trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+"casting": {
+  "actors": [
+    "Park Seo Joon",
+    " Park Min Young"
+  ],
+  "director": ["LEE TAE HWAN"]
+}
+
+}]
+
+
+
