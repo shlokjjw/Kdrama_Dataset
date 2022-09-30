@@ -12,8 +12,7 @@
         "Park Shin Hye",
         "Kim Woo Bin",
         "Kang Min Hyuk",
-        "Kang Ha Nuel",
-        "Park Hyung Sik"
+        "Kang Ha Nuel"
       ],
       "director": ["Kang Shin Ho","Boo Sung Chul"]
   },
@@ -22,6 +21,247 @@
   "seasons": 1,
   "releaseDate":"9 Oct 2013"
 },
+{
+"id": 2,
+  "name":"Hotel Del Luna",
+  "imdbRating": 8.2,
+  "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+  "genre":["Romantic Comedy","Dark Fantasy"],
+  "platform":["Netflix"],
+  "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+  "casting": {
+      "actors": [
+        "Yeo Jin Goo",
+        "Lee Ji Eun",
+        "Jung Dong Hwan",
+        "Shin Jung Guen",
+        "Bae Hae Sun",
+        "Pyo Ji Hoon",
+        "Kang Mi Na"
+      ],
+      "director": ["Oh Choong Hwan"]
+  },
+  "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"13 July 2019"
+},
+{
+  "id": 3,
+      "name":"Prison Playbook",
+      "imdbRating": 8.5,
+      "description":"Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
+      "genre":["prison"],
+      "platform":["tvN"],
+      "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+      "casting": {
+          "actors": [
+            "Park Hae-soo ",
+            "Lee Tae-sun",
+            "Ye Soo-jung",
+            "Kim Kyung-nam",
+            "Lim Hwa-young",
+            "Shin Rin-ah ",
+            "Krystal Jung"
+            
+          ],
+          "director": ["Shin Won-Ho"]
+      },
+      "poster":"https://asianwiki.com/images/b/be/Wise_Prison_Life-P1.jpg",
+      "episodeCount":16,
+      "seasons":1,
+      "releaseDate":"November 22, 2017"
+  },
+
+{
+  "id": 3,
+      "name":"Kill Heel",
+      "imdbRating": 6.5,
+      "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
+      "genre":["Drama, Thriller"],
+      "platform":["Netflix"],
+      "trailer":"https://www.youtube.com/watch?v=veCsMgntmpM",
+      "casting": {
+          "actors": [
+              "Kim Ha Neul",
+              "Kim Sung Ryung",
+              "Lee Hye Young"
+            
+          ],
+          "director": ["Noh Do Cheol"]
+      },
+      "poster":"https://www.google.com/search?rlz=1C1GCEJ_enIN1001IN1001&sxsrf=ALiCzsbAE3zKemGq9ESoYM1v7s8tyaD2FA:1664557195641&source=univ&tbm=isch&q=kill+heel+korean+poster+link&fir=jjdMoH7OKhGXSM",
+      "episodeCount":14,
+      "seasons":1,
+      "releaseDate":"9 March 2022"
+  },
+
+{
+   "id": 4,
+  "name":"what's wrong with secretary kim",
+  "imdbRating": 9.7,
+  "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+  "genre":["Romantic Comedy"],
+  "platform":["viki"],
+  "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+  "casting": {
+      "actors": [
+        "Park Seo Joon",
+        " Park Min Young"
+      ],
+      "director": ["LEE TAE HWAN"]
+  },
+  "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"2018"
+  },
+ 
+ {  
+ 
+ "id":5,
+  "name":"Tomorrow",
+  "imdbRating": 7.8,
+  "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
+  "genre":["Fantasy television"],
+  "platform":["Netflix"],
+  "trailer":"https://youtu.be/BsNRPkOV_Mo",
+  "casting": {
+      "actors": [
+        "Kim Hee-sun ",
+        "Rowoon ",
+        "Lee Soo-hyuk ",
+        "Shin Jung Guen",
+        "Park Sang-hoon "
+       
+      ],
+      "director": ["Kim Tae-yoon",
+"Sung Chi-wook"]
+  },
+  "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"April 1"
+},
+{
+  "id": 2,
+        "name":"Hotel Del Luna",
+        "imdbRating": 8.2,
+        "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+        "genre":["Romantic Comedy","Dark Fantasy"],
+        "platform":["Youtube"],
+        "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+        "casting": {
+            "actors": [
+              "Yeo Jin Goo",
+              "Lee Ji Eun",
+              "Jung Dong Hwan",
+              "Shin Jung Guen",
+              "Bae Hae Sun",
+              "Pyo Ji Hoon",
+              "Kang Mi Na"
+            ],
+            "director": ["Oh Choong Hwan"]
+        },
+        "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+        "episodeCount":16,
+        "seasons":1,
+        "releaseDate":"13 July 2019"
+    },
+
+    {
+	"id": 6,
+  "name":"Vincenzo",
+  "imdbRating": 8.4,
+  "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+  "genre":["Crime drama, dark fantacy"],
+  "platform":["Netflix"],
+  "trailer":"https://youtu.be/S12-4mXCNj4",
+  "casting": {
+      "actors": [
+        "Song Joong-ki",
+        "jeon yeo-been",
+        "ok taec-yeon",
+        "kim yeo-jin",
+        "kwak dong-yeon",
+        "jo han-chul"
+      ],
+      "director": ["Kim hee-won"]
+  },
+  "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+  "episodeCount":20,
+  "seasons":1,
+  "releaseDate":"21 feb 2021"
+},
+{
+         "id": 3,
+        "name":"what's wrong with secretary kim",
+        "imdbRating": 9.7,
+        "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+        "genre":["Romantic Comedy"],
+        "platform":["viki"],
+        "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+        "casting": {
+            "actors": [
+              "Park Seo Joon",
+              " Park Min Young"
+            ],
+            "director": ["LEE TAE HWAN"]
+        },
+        "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+        "episodeCount":16,
+        "seasons":1,
+        "releaseDate":"2018"
+        },
+       
+       {  
+        "name":"Tomorrow",
+        "imdbRating": 7.8,
+        "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
+        "genre":[" Fantasy television"],
+        "platform":["Netflix"],
+        "trailer":"https://youtu.be/BsNRPkOV_Mo",
+        "casting": {
+            "actors": [
+              "Kim Hee-sun ",
+              "Rowoon ",
+              "Lee Soo-hyuk ",
+              "Shin Jung Guen",
+              "Park Sang-hoon "
+             
+            ],
+            "director": ["Kim Tae-yoon",
+"Sung Chi-wook"]
+        },
+        "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
+        "episodeCount":16,
+        "seasons":1,
+        "releaseDate":"April 1"
+    },
+{
+    "id": 4,
+        "name":"Vincenzo",
+        "imdbRating": 8.4,
+        "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+        "genre":["Crime drama, dark fantacy"],
+        "platform":["Hansicinema"],
+        "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
+        "casting": {
+            "actors": [
+              "Yoon Jung-hee ",
+              "Jung Gyu-woon",
+              "Kim Suk-hoon",
+              "Go Doo-shim ",
+              "kwak dong-yeon",
+              "jo han-chul"
+            ],
+            "director": ["Kim Jong-chang"]
+        },
+        "poster":"https://images.app.goo.gl/q2VYZrodrhe5s7",
+        "episodeCount":58,
+        "seasons":1,
+        "releaseDate":"January 6 –July 21, 2007"
+  },
 {
   "id": 1,
     "name": "The Heirs",
@@ -345,12 +585,125 @@
         ],
         "director": ["LEE TAE HWAN"]
     },
-    "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-    "episodeCount":16,
-    "seasons":1,
-    "releaseDate":"2018"
+    {
+      "id": 4,
+        "name":"A Happy women",
+        "imdbRating": 7.6,
+        "description":"As the titular happy woman Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
+        "genre":["Romantic Comedy,Drama"],
+        "platform":["Hansicinema"],
+        "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
+        "casting": {
+            "actors": [
+              "Yoon Jung-hee ",
+              "Jung Gyu-woon",
+              "Kim Suk-hoon",
+              "Go Doo-shim ",
+              "kwak dong-yeon",
+              "jo han-chul"
+            ],
+            "director": ["Kim Jong-chang"]
+        },
+        "poster":"https://images.app.goo.gl/q2VYZrodrhe5s7",
+        "episodeCount":58,
+        "seasons":1,
+        "releaseDate":"January 6 –July 21, 2007"
     },
-   
+    
+{
+    "id": 5,
+        "name":"Goblin The Lonely And Great God",
+        "imdbRating": "9.7",
+        "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
+        "genre":["Korean drama, Romance, Drama, Fantasy, Comedy"],
+        "platform":["Netflix"],
+        "trailer":"https://www.imdb.com/title/tt5994364/",
+        "casting": {
+            "actors": [
+              "Gong Yoo",
+              "Kim Go‑eun"
+            ],
+            "director": ["Yun ha rim"]
+        },
+        "poster":"https://www.google.com/search?q=goblin&sa=X&biw=1366&bih=653&tbm=isch&source=iu&ictx=1&vet=1&fir=v-tt4lrf4t1rCM%252CssiLFK4vpREz4M%252C%252Fg%252F11byyl7tc4%253BeTPWzjDFyV9XZM%252CaX56W9Bk3KIe4M%252C_%253BLhj8Q9UP8Z_3yM%252CsuM7HxBo_SBltM%252C_%253B5SDd_b63H6qYwM%252C8wwaLT_U28cMMM%252C_%253BnlWxpdJXCID0JM%252CV3Db3CZBuCgTxM%252C_%253B72v5U7FoiJYuxM%252CQnfoQPGUIQN7oM%252C_%253BBwGOfEln4REgCM%252CEINQN1GrylfaSM%252C_&usg=AI4_-kSik_7zZmRClmU-gXhwpMVCE3Q1hg&ved=2ahUKEwjAnMOJir36AhU6xnMBHQOZD3sQ_B16BQiIARAB#imgrc=v-tt4lrf4t1rCM",
+        "episodeCount":10,
+        "seasons":1,
+        "releaseDate":"21 feb 2021"
+    },
+
+    {
+    "id": 10,
+  "name":"Vincenzo",
+  "imdbRating": 8.4,
+  "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+  "genre":["Crime drama, dark fantacy"],
+  "platform":["Netflix"],
+  "trailer":"https://youtu.be/S12-4mXCNj4",
+  "casting": {
+      "actors": [
+        "Song Joong-ki",
+        "jeon yeo-been",
+        "ok taec-yeon",
+        "kim yeo-jin",
+        "kwak dong-yeon",
+        "jo han-chul"
+      ],
+      "director": ["Kim hee-won"]
+  },
+  "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+  "episodeCount":20,
+  "seasons":1,
+  "releaseDate":"21 feb 2021"
+},
+{
+"id": 11,
+  "name":"Our secret",
+  "imdbRating": 8.6,
+  "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
+  "genre":[" Romance, Life, Youth"],
+  "platform":["Netflix"],
+  "trailer":"https://www.youtube.com/watch?v=Wy8s1pI8bRo",
+  "casting": {
+      "actors": [
+        "Chen zhe yuan",
+        "rainbow zu",
+        "wang yi lan",
+        "kim yeo-jin",
+        "fan xhi xin",
+        "liu zhi wei"
+      ],
+      "director": ["zhang xiao an"]
+  },
+  "poster":"https://i.mydramalist.com/2lbz2_4c.jpg?v=1",
+  "episodeCount":24,
+  "seasons":1,
+  "releaseDate":"10 aug 2021"
+},
+
+  {
+    "id": 13,
+    "name":"Our secret",
+    "imdbRating": 8.6,
+    "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
+    "genre":[" Romance, Life, Youth"],
+    "platform":["Netflix"],
+    "trailer":"https://www.youtube.com/watch?v=Wy8s1pI8bRo",
+    "casting": {
+        "actors": [
+          "Chen zhe yuan",
+          "rainbow zu",
+          "wang yi lan",
+          "kim yeo-jin",
+          "fan xhi xin",
+          "liu zhi wei"
+        ],
+        "director": ["zhang xiao an"]
+    },
+    "poster":"https://i.mydramalist.com/2lbz2_4c.jpg?v=1",
+    "episodeCount":24,
+    "seasons":1,
+    "releaseDate":"10 aug 2021"
+  },	   
    {  
     "name":"Tomorrow",
     "imdbRating": 7.8,
