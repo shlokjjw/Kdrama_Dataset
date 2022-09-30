@@ -715,14 +715,31 @@
 "seasons":1,
 "releaseDate":"10 aug 2021"
 },
+ 
+ {
+"id": 12,
+"name":"Moon Lovers: Scarlet Heart Ryeo",
+"imdbRating": 8.7,
+"description":"is a South Korean television series based on the Chinese novel Bu Bu Jing Xin.
+"genre":["Drama, Romance, Sageuk, Melodrama, Time travel, Fantasy"],
+"platform":["viki"],
+"trailer":"https://www.imdb.com/title/tt5320412/",
+"casting": {
+  "actors": [
+ 	
+"Lee Joon-gi","Lee Ji-eun",
+"Kang Ha-neul"
+  ],
+  "director": ["	Kim Kyu-tae"]
+}
 
 
 {
-"id": 12,
+"id": 13,
 "name":"what's wrong with secretary tom",
 "imdbRating": 9.7,
 "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
-"genre":["Romantic Comedy"],
+"genre":[" Romantic Comedy"],
 "platform":["viki"],
 "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
 "casting": {
