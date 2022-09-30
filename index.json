@@ -1,100 +1,154 @@
 [{
-        "id": 1,
-        "name": "The Heirs",
-        "imdbRating":7.5,
-        "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
-        "genre":["Drama","Romance""Teen"],
-        "platform":["Netflix","MxPlayer"],
-        "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
-        "casting": {
-            "actors": [
-              "Lee Min Ho",
-              "Park Shin Hye",
-              "Kim Woo Bin",
-              "Kang Min Hyuk",
-              "Kang Ha Nuel"
-              "Park Hyung Sik"
-            ],
-            "director": ["Kang Shin Ho","Boo Sung Chul"]
-        },
-        "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
-        "episodeCount": 20,
-        "seasons": 1,
-        "releaseDate":"9 Oct 2013"
-    },
+  "id": 1,
+  "name": "The Heirs",
+  "imdbRating":7.5,
+  "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
+  
+
+  "genre":["Drama","Romance","Teen"],
+
+  "platform":["Netflix","MxPlayer"],
+  "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
+  "casting": {
+      "actors": [
+        "Lee Min Ho",
+        "Park Shin Hye",
+        "Kim Woo Bin",
+        "Kang Min Hyuk",
+        "Kang Ha Nuel"
+      ],
+      "director": ["Kang Shin Ho","Boo Sung Chul"]
+  },
+  "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
+  "episodeCount": 20,
+  "seasons": 1,
+  "releaseDate":"9 Oct 2013"
+},
 {
-    "id": 2,
-        "name":"Hotel Del Luna"
-        "imdbRating": 8.2,
-        "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
-        "genre":["Romantic Comedy","Dark Fantasy"],
-        "platform":["Netflix"],
-        "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
-        "casting": {
-            "actors": [
-              "Yeo Jin Goo",
-              "Lee Ji Eun",
-              "Jung Dong Hwan",
-              "Shin Jung Guen",
-              "Bae Hae Sun",
-              "Pyo Ji Hoon",
-              "Kang Mi Na"
-            ],
-            "director": ["Oh Choong Hwan"]
-        },
-        "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
-        "episodeCount":16
-        "seasons":1
-        "releaseDate":"13 July 2019"
-    },
+"id": 2,
+  "name":"Hotel Del Luna",
+  "imdbRating": 8.2,
+  "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+  "genre":["Romantic Comedy","Dark Fantasy"],
+  "platform":["Netflix"],
+  "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+  "casting": {
+      "actors": [
+        "Yeo Jin Goo",
+        "Lee Ji Eun",
+        "Jung Dong Hwan",
+        "Shin Jung Guen",
+        "Bae Hae Sun",
+        "Pyo Ji Hoon",
+        "Kang Mi Na"
+      ],
+      "director": ["Oh Choong Hwan"]
+  },
+  "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"13 July 2019"
+},
 {
-         "id": 3
-        "name":"what's wrong with secretary kim",
-        "imdbRating": 9.7,
-        "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
-        "genre":["Romantic Comedy"],
-        "platform":["viki"],
-        "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-        "casting": {
-            "actors": [
-              "Park Seo Joon",
-              " Park Min Young"
-            ],
-            "director": ["LEE TAE HWAN"]
-        },
-        "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
-        "episodeCount":16,
-        "seasons":1,
-        "releaseDate":"2018"
-        },
+  "id": 3,
+      "name":"Prison Playbook",
+      "imdbRating": 8.5,
+      "description":"Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
+      "genre":["prison"],
+      "platform":["tvN"],
+      "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
+      "casting": {
+          "actors": [
+            "Park Hae-soo ",
+            "Lee Tae-sun",
+            "Ye Soo-jung",
+            "Kim Kyung-nam",
+            "Lim Hwa-young",
+            "Shin Rin-ah ",
+            "Krystal Jung"
+            
+          ],
+          "director": ["Shin Won-Ho"]
+      },
+      "poster":"https://asianwiki.com/images/b/be/Wise_Prison_Life-P1.jpg",
+      "episodeCount":16,
+      "seasons":1,
+      "releaseDate":"November 22, 2017"
+  },
+
+{
+  "id": 3,
+      "name":"Kill Heel",
+      "imdbRating": 6.5,
+      "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
+      "genre":["Drama, Thriller"],
+      "platform":["Netflix"],
+      "trailer":"https://www.youtube.com/watch?v=veCsMgntmpM",
+      "casting": {
+          "actors": [
+              "Kim Ha Neul",
+              "Kim Sung Ryung",
+              "Lee Hye Young"
+            
+          ],
+          "director": ["Noh Do Cheol"]
+      },
+      "poster":"https://www.google.com/search?rlz=1C1GCEJ_enIN1001IN1001&sxsrf=ALiCzsbAE3zKemGq9ESoYM1v7s8tyaD2FA:1664557195641&source=univ&tbm=isch&q=kill+heel+korean+poster+link&fir=jjdMoH7OKhGXSM",
+      "episodeCount":14,
+      "seasons":1,
+      "releaseDate":"9 March 2022"
+  },
+
+{
+   "id": 4,
+  "name":"what's wrong with secretary kim",
+  "imdbRating": 9.7,
+  "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+  "genre":["Romantic Comedy"],
+  "platform":["viki"],
+  "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+  "casting": {
+      "actors": [
+        "Park Seo Joon",
+        " Park Min Young"
+      ],
+      "director": ["LEE TAE HWAN"]
+  },
+  "poster":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"2018"
+  },
+ 
+ {  
+ 
+ "id":5,
+  "name":"Tomorrow",
+  "imdbRating": 7.8,
+  "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
+  "genre":["Fantasy television"],
+  "platform":["Netflix"],
+  "trailer":"https://youtu.be/BsNRPkOV_Mo",
+  "casting": {
+      "actors": [
+        "Kim Hee-sun ",
+        "Rowoon ",
+        "Lee Soo-hyuk ",
+        "Shin Jung Guen",
+        "Park Sang-hoon "
        
-       {  
-        "name":"Tomorrow",
-        "imdbRating": 7.8,
-        "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions.."
-        "genre":[" Fantasy television"],
-        "platform":["Netflix"],
-        "trailer":"https://youtu.be/BsNRPkOV_Mo",
-        "casting": {
-            "actors": [
-              "Kim Hee-sun ",
-              "Rowoon ",
-              "Lee Soo-hyuk ",
-              "Shin Jung Guen",
-              "Park Sang-hoon ",
-             
-            ],
-            "director": ["Kim Tae-yoon",
+      ],
+      "director": ["Kim Tae-yoon",
 "Sung Chi-wook"]
-        },
-        "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
-        "episodeCount":16,
-        "seasons":1,
-        "releaseDate":"	April 1 "
-    }
+  },
+  "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
+  "episodeCount":16,
+  "seasons":1,
+  "releaseDate":"April 1"
+},
 {
-    "id": 2,
-        "name":"Hotel Del Luna"
+  "id": 2,
+        "name":"Hotel Del Luna",
         "imdbRating": 8.2,
         "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
         "genre":["Romantic Comedy","Dark Fantasy"],
@@ -113,10 +167,101 @@
             "director": ["Oh Choong Hwan"]
         },
         "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
-        "episodeCount":16
-        "seasons":1
+        "episodeCount":16,
+        "seasons":1,
         "releaseDate":"13 July 2019"
     },
-]
- 
-	
+
+    {
+	"id": 6,
+  "name":"Vincenzo",
+  "imdbRating": 8.4,
+  "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+  "genre":["Crime drama, dark fantacy"],
+  "platform":["Netflix"],
+  "trailer":"https://youtu.be/S12-4mXCNj4",
+  "casting": {
+      "actors": [
+        "Song Joong-ki",
+        "jeon yeo-been",
+        "ok taec-yeon",
+        "kim yeo-jin",
+        "kwak dong-yeon",
+        "jo han-chul"
+      ],
+      "director": ["Kim hee-won"]
+  },
+  "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+  "episodeCount":20,
+  "seasons":1,
+  "releaseDate":"21 feb 2021"
+},
+{
+"id": 10,
+  "name":"Vincenzo",
+  "imdbRating": 8.4,
+  "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+  "genre":["Crime drama, dark fantacy"],
+  "platform":["Netflix"],
+  "trailer":"https://youtu.be/S12-4mXCNj4",
+  "casting": {
+      "actors": [
+        "Song Joong-ki",
+        "jeon yeo-been",
+        "ok taec-yeon",
+        "kim yeo-jin",
+        "kwak dong-yeon",
+        "jo han-chul"
+      ],
+      "director": ["Kim hee-won"]
+  },
+  "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+  "episodeCount":20,
+  "seasons":1,
+  "releaseDate":"21 feb 2021"
+},
+{
+"id": 11,
+  "name":"Our secret",
+  "imdbRating": 8.6,
+  "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
+  "genre":[" Romance, Life, Youth"],
+  "platform":["Netflix"],
+  "trailer":"https://www.youtube.com/watch?v=Wy8s1pI8bRo",
+  "casting": {
+      "actors": [
+        "Chen zhe yuan",
+        "rainbow zu",
+        "wang yi lan",
+        "kim yeo-jin",
+        "fan xhi xin",
+        "liu zhi wei"
+      ],
+      "director": ["zhang xiao an"]
+  },
+  "poster":"https://i.mydramalist.com/2lbz2_4c.jpg?v=1",
+  "episodeCount":24,
+  "seasons":1,
+  "releaseDate":"10 aug 2021"
+},
+
+
+{
+  "id": 12,
+  "name":"what's wrong with secretary tom",
+  "imdbRating": 9.7,
+  "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+  "genre":["Romantic Comedy"],
+  "platform":["viki"],
+  "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+  "casting": {
+      "actors": [
+        "Park Seo Joon",
+        " Park Min Young"
+      ],
+      "director": ["LEE TAE HWAN"]
+  }
+
+}]
+
+
