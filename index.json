@@ -262,6 +262,24 @@
       "director": ["LEE TAE HWAN"]
   }
 
-}]
+},
+{
+  "id": 13,
+  "name": "200 Pounds Beauty",
+  "imdbRating":6.7,
+  "description":"200 Pounds Beauty (Korean: 미녀는 괴로워; RR: Minyeoneun Goerowo; 'Beauty is painful') is a 2006 South Korean musical romantic comedy film written and directed by Kim Yong-hwa.[2] ",
+  "genre": ["Romantic Comedy"],
+  "platform": "prime",
+  "tariler":"",
+  "casting":{
+    "actors":[
+      "Kim Ah-joong","Joo Jin-mo" ,"Sung Dong-il" 
+
+    ],
+    "director":["Kim Yong-hw"]
+  }
+
+}
+]
 
 
