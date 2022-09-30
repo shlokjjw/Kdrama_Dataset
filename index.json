@@ -195,6 +195,30 @@
         "episodeCount":12
        "season":1
        "releaseDate":"2 Dec 2017"
+},
+{
+"id":13,
+	"name":"Little Women"
+	"imdbRating":7.8,
+	"describtion":"The story tells of how the sisters grow up, find love, and find their place in the world."
+	"genre":["Family Drama"],
+        "platform":["Netflix"],
+        "trailer":"https://youtu.be/Y52PRIHr-YI",
+        "casting":{
+		"actors":[
+			"Josephine March"
+			"Meg March"
+			"Beth March"
+			"Amy March"
+			"Laurie Laurence"
+			"Marmee"
+			],
+		"director":["Greta Gerwig"]
+	},
+       "poster":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0110367%2F&psig=AOvVaw3X98tdonBUAwvXYulR-ZiY&ust=1664649700789000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjvzcGVvfoCFQAAAAAdAAAAABAN"
+       "episodeCount":12
+       "season":1
+       "releaseDate":"25 December 2019"
 }
 
 
