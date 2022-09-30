@@ -787,6 +787,72 @@
 	},
 
 
+{
+"id": 10,
+"name":"Vincenzo",
+"imdbRating": 8.4,
+"description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
+"genre":["Crime drama, dark fantacy"],
+"platform":["Netflix"],
+"trailer":"https://youtu.be/S12-4mXCNj4",
+"casting": {
+  "actors": [
+    "Song Joong-ki",
+    "jeon yeo-been",
+    "ok taec-yeon",
+    "kim yeo-jin",
+    "kwak dong-yeon",
+    "jo han-chul"
+  ],
+  "director": ["Kim hee-won"]
+},
+"poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+"episodeCount":20,
+"seasons":1,
+"releaseDate":"21 feb 2021"
+},
+{
+"id": 11,
+"name":"Our secret",
+"imdbRating": 8.6,
+"description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
+"genre":[" Romance, Life, Youth"],
+"platform":["Netflix"],
+"trailer":"https://www.youtube.com/watch?v=Wy8s1pI8bRo",
+"casting": {
+  "actors": [
+    "Chen zhe yuan",
+    "rainbow zu",
+    "wang yi lan",
+    "kim yeo-jin",
+    "fan xhi xin",
+    "liu zhi wei"
+  ],
+  "director": ["zhang xiao an"]
+},
+"poster":"https://i.mydramalist.com/2lbz2_4c.jpg?v=1",
+"episodeCount":24,
+"seasons":1,
+"releaseDate":"10 aug 2021"
+},
+ 
+ {
+"id": 12,
+"name":"Moon Lovers: Scarlet Heart Ryeo",
+"imdbRating": 8.7,
+"description":"is a South Korean television series based on the Chinese novel Bu Bu Jing Xin.
+"genre":["Drama, Romance, Sageuk, Melodrama, Time travel, Fantasy"],
+"platform":["viki"],
+"trailer":"https://www.imdb.com/title/tt5320412/",
+"casting": {
+  "actors": [
+ 	
+"Lee Joon-gi","Lee Ji-eun",
+"Kang Ha-neul"
+  ],
+  "director": ["	Kim Kyu-tae"]
+},
+
 
 
 	{
@@ -942,11 +1008,11 @@
 		"releaseDate": "January 6 –July 21, 2007"
 	},
 {
-"id": 39,
+"id": 13,
 "name":"what's wrong with secretary tom",
 "imdbRating": 9.7,
 "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
-"genre":["Romantic Comedy"],
+"genre":[" Romantic Comedy"],
 "platform":["viki"],
 "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
 "casting": {
