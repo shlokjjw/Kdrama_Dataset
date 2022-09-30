@@ -170,6 +170,29 @@
         "seasons":1
         "releaseDate":"21 feb 2021"
     }
+{
+	"id":11,
+	"name":"Sky Castle",
+	 "imdbRating":7.0,
+	 "description":"this follows the lives of 4 women living in luxirious SKY Castle neighborhood",
+	  "genre":["DRAMA"],
+	   "platform":["Netflix"],
+           "trailer":"https://youtu.be/P6coIgyV9e0",
+	   "casting":{
+		   "actors": [
+			   "Yum Jung-ah",
+			   "Lee Tae-ran",
+			   "Yoon Se-ah"
+			   ],
+		   "director":["Jo Hyun-mi"]
+	   },
+	"poster":"https://tse2.mm.bing.net/th?id=OIP.y4kJMFAi6IiReD4OVgxwwwHaE8&pid=Api&P=0",
+	  "episodeCount":20
+        "seasons":1
+        "releaseDate":"23November2018"
+}
+			   
+			   
 
 
 
