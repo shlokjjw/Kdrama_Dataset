@@ -280,6 +280,24 @@
   }
 
 }
+,
+{
+  "id": 14,
+  "name": "When Romance Meets Destiny",
+  "imdbRating":6.7,
+  "description":"When Romance Meets Destiny (Korean: 광식이 동생 광태; RR: Gw",
+  "genre": ["Romantic Comedy"],
+  "platform": "prime",
+  "tariler":"",
+  "casting":{
+    "actors":[
+      "Kim Ah-joong","Joo Jin-mo" ,"Sung Dong-il" 
+
+    ],
+    "director":["Kim Yong-hw"]
+  }
+
+}
 ]
 
 
