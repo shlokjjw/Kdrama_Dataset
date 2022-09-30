@@ -731,9 +731,24 @@
     " Park Min Young"
   ],
   "director": ["LEE TAE HWAN"]
-}
+},
+	{
+	"id": 13,
+"name":"Vincenzo",
+"imdbRating": 8.4,
+"description":"During a visit to his motherland, a Korean-Italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice."
+"genre":["Dark Comedy, Crime Film"],
+"platform":["Netflix"],
+"trailer":"https://www.youtube.com/watch?v=S12-4mXCNj4",
+"casting": {
+  "actors": [
+    "Song Joong-ki",
+    "Jeon Yeo-been"
+  ],
+  "director": ["Kim Hee-won"]
 
-}]
+},
+]
 
 
 
