@@ -91,9 +91,9 @@
         "episodeCount":16,
         "seasons":1,
         "releaseDate":"	April 1 "
-    }
+    },
 {
-    "id": 3,
+    "id": 4,
         "name":"Vincenzo"
         "imdbRating": 8.4,
         "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice"
@@ -115,7 +115,27 @@
         "episodeCount":20
         "seasons":1
         "releaseDate":"21 feb 2021"
-    }
+    },
+{
+    "id": 5,
+        "name":"Goblin The Lonely And Great God"
+        "imdbRating": "9.7",
+        "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one."
+        "genre":["Korean drama, Romance, Drama, Fantasy, Comedy"],
+        "platform":["Netflix"],
+        "trailer":"https://www.imdb.com/title/tt5994364/",
+        "casting": {
+            "actors": [
+              "Gong Yoo",
+              "Kim Go‑eun",
+            ],
+            "director": ["Yun ha rim"]
+        },
+        "poster":"https://www.google.com/search?q=goblin&sa=X&biw=1366&bih=653&tbm=isch&source=iu&ictx=1&vet=1&fir=v-tt4lrf4t1rCM%252CssiLFK4vpREz4M%252C%252Fg%252F11byyl7tc4%253BeTPWzjDFyV9XZM%252CaX56W9Bk3KIe4M%252C_%253BLhj8Q9UP8Z_3yM%252CsuM7HxBo_SBltM%252C_%253B5SDd_b63H6qYwM%252C8wwaLT_U28cMMM%252C_%253BnlWxpdJXCID0JM%252CV3Db3CZBuCgTxM%252C_%253B72v5U7FoiJYuxM%252CQnfoQPGUIQN7oM%252C_%253BBwGOfEln4REgCM%252CEINQN1GrylfaSM%252C_&usg=AI4_-kSik_7zZmRClmU-gXhwpMVCE3Q1hg&ved=2ahUKEwjAnMOJir36AhU6xnMBHQOZD3sQ_B16BQiIARAB#imgrc=v-tt4lrf4t1rCM",
+        "episodeCount":10
+        "seasons":1
+        "releaseDate":"21 feb 2021"
+    },
 
 ]
  
