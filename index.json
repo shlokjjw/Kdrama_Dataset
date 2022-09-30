@@ -98,49 +98,49 @@
         "imdbRating": 8.4,
         "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice"
         "genre":["Crime drama, dark fantacy"],
-        "platform":["Netflix"],
-        "trailer":"https://youtu.be/S12-4mXCNj4",
+        "platform":["Hansicinema"]
+        "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
         "casting": {
             "actors": [
-              "Song Joong-ki",
-              "jeon yeo-been",
-              "ok taec-yeon",
-              "kim yeo-jin",
+              "Yoon Jung-hee ",
+              "Jung Gyu-woon",
+              "Kim Suk-hoon",
+              "Go Doo-shim ",
               "kwak dong-yeon",
               "jo han-chul"
             ],
-            "director": ["Kim hee-won"]
+            "director": ["Kim Jong-chang"]
         },
-        "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
-        "episodeCount":20
+        "poster":"https://images.app.goo.gl/q2VYZrodrhe5s7",
+        "episodeCount":58
         "seasons":1
-        "releaseDate":"21 feb 2021"
+        "releaseDate":"January 6 –July 21, 2007"
     }
-{
-    "id": 10,
-        "name":"Vincenzo"
-        "imdbRating": 8.4,
-        "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice"
-        "genre":["Crime drama, dark fantacy"],
-        "platform":["Netflix"],
-        "trailer":"https://youtu.be/S12-4mXCNj4",
+    {
+    "id": 4,
+        "name":"A Happy women"
+        "imdbRating": 7.6,
+        "description":"As the titular "happy woman," Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love."
+        "genre":["Romantic Comedy,Drama"],
+        "platform":["Hansicinema"]
+        "trailer":"https://www.youtube.com/watch?v=oVL0Q1AtagY",
         "casting": {
             "actors": [
-              "Song Joong-ki",
-              "jeon yeo-been",
-              "ok taec-yeon",
-              "kim yeo-jin",
+              "Yoon Jung-hee ",
+              "Jung Gyu-woon",
+              "Kim Suk-hoon",
+              "Go Doo-shim ",
               "kwak dong-yeon",
               "jo han-chul"
             ],
-            "director": ["Kim hee-won"]
+            "director": ["Kim Jong-chang"]
         },
-        "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
-        "episodeCount":20
+        "poster":"https://images.app.goo.gl/q2VYZrodrhe5s7",
+        "episodeCount":58
         "seasons":1
-        "releaseDate":"21 feb 2021"
-    }
-
+        "releaseDate":"January 6 –July 21, 2007"
+    },
+    
 
 ]
  
