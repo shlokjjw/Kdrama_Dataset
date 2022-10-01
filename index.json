@@ -2209,6 +2209,41 @@
             "releaseDate":"2 December 2016"
           },
 
+ {
+        "id": 48,
+        "name": "All of us are dead",
+        "imdbRating": 7.5,
+        "description": "Trapped students must escape their high school which has become ground zero for a zombie virus outbreak.",
+        "genre": [
+            "Korean drama",
+            "Zombie apocalypse",
+            "Horror fiction"
+        ],
+        "platform": [
+            "Netflix"
+        ],
+        "trailer": "https://www.youtube.com/watch?v=IN5TD4VRcSM",
+        "casting": {
+            "actors": [                  
+    "Cho Yi-hyun",
+    "Lomon",
+    "Park Ji-hoo",
+    "Chan-Young Yoon",
+    "Yoo In-soo",
+    "Lee Yoo-Mi",
+    "Seung-Ri Ha"
+            ],
+            "director": [
+                "Lee Jae-kyoo", "Kim Nam-su"
+            ]
+        },
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/All_of_Us_Are_Dead.jpeg/250px-All_of_Us_Are_Dead.jpeg",
+        "episodeCount": 12,
+        "seasons": 1,
+        "releaseDate": "28 January 2022"
+    },
+ 
+ 
           {
             "id": 50,
             "name":"Twenty-Five Twenty-One",
