@@ -2306,5 +2306,108 @@
             "episodeCount":16,
             "seasons":1,
             "releaseDate":"2 December 2016"
-          }
+          },
+
+ {
+        "id": 48,
+        "name": "All of us are dead",
+        "imdbRating": 7.5,
+        "description": "Trapped students must escape their high school which has become ground zero for a zombie virus outbreak.",
+        "genre": [
+            "Korean drama",
+            "Zombie apocalypse",
+            "Horror fiction"
+        ],
+        "platform": [
+            "Netflix"
+        ],
+        "trailer": "https://www.youtube.com/watch?v=IN5TD4VRcSM",
+        "casting": {
+            "actors": [                  
+    "Cho Yi-hyun",
+    "Lomon",
+    "Park Ji-hoo",
+    "Chan-Young Yoon",
+    "Yoo In-soo",
+    "Lee Yoo-Mi",
+    "Seung-Ri Ha"
+            ],
+            "director": [
+                "Lee Jae-kyoo", "Kim Nam-su"
+            ]
+        },
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/All_of_Us_Are_Dead.jpeg/250px-All_of_Us_Are_Dead.jpeg",
+        "episodeCount": 12,
+        "seasons": 1,
+        "releaseDate": "28 January 2022"
+    },
+ {
+            "id": 49,
+              "name":"Buisness Proposal",
+              "imdbRating": 8.1,
+              "description":"In disguise as her friend, Ha-ri shows up on a blind date to scare away her friend's prospective suitor. However, plans go awry when he turns out to be Ha-ri's CEO and he makes a proposal. ",
+              "genre":["Romance", "Comedy"],
+              "platform":["Netflix"],
+              "trailer":"https://youtu.be/mh4R-WXRhQo",
+              "casting": {
+                  "actors": [
+                    "Ahn Hyo‑seop",
+                    "Kim Sejeong",
+                    "Kim Min‑kyu",
+                    "Seol In‑ah"
+                  ],
+                  "director": ["Park Seon-ho"]
+              },
+              "poster":"https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/business_proposal_group_main.png",
+              "episodeCount":12,
+              "seasons":1,
+              "releaseDate":"28 February 2022"
+            },
+ 
+          {
+            "id": 50,
+            "name":"Twenty-Five Twenty-One",
+            "imdbRating": 8.6,
+            "description":"“Twenty Five Twenty One” is a heartfelt South Korean drama starring Nam Joo-Hyuk as Baek Yi-Jin, a once wealthy son who lost it all, and Kim Tae-Ri as Na Hee-Do, a young aspiring fencer.",
+            "genre":["Romance"],
+            "platform":["Netflix"],
+            "trailer":"https://youtu.be/PBCXHOskDQ4",
+            "casting": {
+                "actors": [
+                  "Kim Tae-ri",
+                  "Choi Hyun-wook",
+                  "Nam Joo-hyuk ",
+                  "Bona",
+                  "Lee Joo-myung"
+                ],
+                "director": ["Jung Ji-hyun"]
+            },
+            "poster":"https://www.allkpop.com/upload/2022/01/content/110157/web_data/allkpop_1641884415_befunky-collage-39.jpg",
+            "episodeCount":16,
+            "seasons":1,
+            "releaseDate":"2 April 2022"
+
+          },
+  {
+                "id": 51,
+                  "name":"Big Mouth",
+                  "imdbRating": 8.1,
+                  "description":"The series tells the story of an underperforming lawyer who gets caught up in a murder case. In order to survive and protect his family, he digs into a huge conspiracy among the privileged upper classes ",
+                  "genre":["Crime drama","Noir","Action"],
+                  "platform":["Disney+Hotstar"],
+                  "trailer":"https://youtu.be/l-MqNftE0BY",
+                  "casting": {
+                      "actors": [
+                        "Lee jong-suk",
+                        "Im yoon-ah",
+                        "kwak dong-yeon",
+                        "Ok ja-yeon"
+                      ],
+                      "director": ["Oh Chung-hwan" ,"Bae Hyun-jin"]
+                  },
+                  "poster":"https://i.mydramalist.com/XL2yZ_2f.jpg",
+                  "episodeCount":16,
+                  "seasons":1,
+                  "releaseDate":"27 July 2022"
+                }
   ]
