@@ -2156,6 +2156,7 @@
               ],
               "director": ["zhang xiao an"]
           }},
+     
   
   
   
@@ -2185,6 +2186,28 @@
               "director": ["Sung Hyun-Won"]
           }
       }
+    {
+          "id": 47,
+            "name":"Goblin",
+            "imdbRating": 8.6,
+            "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
+            "genre":["Romance", "Fantasy", "Drama"],
+            "platform":["Viki"],
+            "trailer":"https://youtu.be/8AcNEVUzV4o",
+            "casting": {
+                "actors": [
+                  "Gong Yoo",
+                  "Lee Dong Wook",
+                  "Kim Go Eun",
+                  "Yoo In Na"
+                ],
+                "director": ["Lee Eung-bok"]
+            },
+            "poster":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5994364%2F&psig=AOvVaw3qBRvHmVQWNiwTdob6nQ2a&ust=1664688555151000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjXwKamvvoCFQAAAAAdAAAAABAD",
+            "episodeCount":16,
+            "seasons":1,
+            "releaseDate":"2 December 2016"
+          }
   ]
   ]
   
