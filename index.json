@@ -2242,7 +2242,28 @@
         "seasons": 1,
         "releaseDate": "28 January 2022"
     },
- 
+ {
+            "id": 49,
+              "name":"Buisness Proposal",
+              "imdbRating": 8.1,
+              "description":"In disguise as her friend, Ha-ri shows up on a blind date to scare away her friend's prospective suitor. However, plans go awry when he turns out to be Ha-ri's CEO and he makes a proposal. ",
+              "genre":["Romance", "Comedy"],
+              "platform":["Netflix"],
+              "trailer":"https://youtu.be/mh4R-WXRhQo",
+              "casting": {
+                  "actors": [
+                    "Ahn Hyo‑seop",
+                    "Kim Sejeong",
+                    "Kim Min‑kyu",
+                    "Seol In‑ah"
+                  ],
+                  "director": ["Park Seon-ho"]
+              },
+              "poster":"https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/business_proposal_group_main.png",
+              "episodeCount":12,
+              "seasons":1,
+              "releaseDate":"28 February 2022"
+            },
  
           {
             "id": 50,
@@ -2267,7 +2288,29 @@
             "seasons":1,
             "releaseDate":"2 April 2022"
 
-          }
+          },
+  {
+                "id": 51,
+                  "name":"Big Mouth",
+                  "imdbRating": 8.1,
+                  "description":"The series tells the story of an underperforming lawyer who gets caught up in a murder case. In order to survive and protect his family, he digs into a huge conspiracy among the privileged upper classes ",
+                  "genre":["Crime drama","Noir","Action"],
+                  "platform":["Disney+Hotstar"],
+                  "trailer":"https://youtu.be/l-MqNftE0BY",
+                  "casting": {
+                      "actors": [
+                        "Lee jong-suk",
+                        "Im yoon-ah",
+                        "kwak dong-yeon",
+                        "Ok ja-yeon"
+                      ],
+                      "director": ["Oh Chung-hwan" ,"Bae Hyun-jin"]
+                  },
+                  "poster":"https://i.mydramalist.com/XL2yZ_2f.jpg",
+                  "episodeCount":16,
+                  "seasons":1,
+                  "releaseDate":"27 July 2022"
+                }
   ]
   
   
