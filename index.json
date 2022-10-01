@@ -2311,6 +2311,7 @@
  {
         "id": 48,
         "name": "All of us are dead",
+        "alias":[],
         "imdbRating": 7.5,
         "description": "Trapped students must escape their high school which has become ground zero for a zombie virus outbreak.",
         "genre": [
@@ -2344,6 +2345,7 @@
  {
             "id": 49,
               "name":"Buisness Proposal",
+              "alias":[],
               "imdbRating": 8.1,
               "description":"In disguise as her friend, Ha-ri shows up on a blind date to scare away her friend's prospective suitor. However, plans go awry when he turns out to be Ha-ri's CEO and he makes a proposal. ",
               "genre":["Romance", "Comedy"],
@@ -2367,6 +2369,7 @@
           {
             "id": 50,
             "name":"Twenty-Five Twenty-One",
+            "alias":[],
             "imdbRating": 8.6,
             "description":"“Twenty Five Twenty One” is a heartfelt South Korean drama starring Nam Joo-Hyuk as Baek Yi-Jin, a once wealthy son who lost it all, and Kim Tae-Ri as Na Hee-Do, a young aspiring fencer.",
             "genre":["Romance"],
@@ -2391,6 +2394,7 @@
   {
                 "id": 51,
                   "name":"Big Mouth",
+                  "alias":[],
                   "imdbRating": 8.1,
                   "description":"The series tells the story of an underperforming lawyer who gets caught up in a murder case. In order to survive and protect his family, he digs into a huge conspiracy among the privileged upper classes ",
                   "genre":["Crime drama","Noir","Action"],
