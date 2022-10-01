@@ -2172,6 +2172,20 @@
               "director": ["LEE TAE HWAN"]
           }
       }
+       {
+          "id": 46,
+          "name":"The Golden Spoon",
+          "imdbRating": 7.4,
+          "description": "Based on Naver hit webtoon of the same name by HD3 which was published in 2016, the series depicts a life adventure of a child who became an acquired gold spoon",
+          "genre": ["Life Adventure"],
+          "platform": ["viki"],
+          "trailer": "https://www.youtube.com/watch?v=pbHrIKz-Njs",
+          "casting": {
+              "actors": ["Yook Sung-jae","Jung Chae-yeon","Lee Jong-won"],
+              "director": ["Sung Hyun-Won"]
+          }
+      }
+  ]
   ]
   
   
