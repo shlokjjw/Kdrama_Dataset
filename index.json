@@ -2172,7 +2172,7 @@
               "actors": ["Park Seo Joon", " Park Min Young"],
               "director": ["LEE TAE HWAN"]
           }
-      }
+      },
        {
           "id": 46,
           "name":"The Golden Spoon",
@@ -2185,7 +2185,7 @@
               "actors": ["Yook Sung-jae","Jung Chae-yeon","Lee Jong-won"],
               "director": ["Sung Hyun-Won"]
           }
-      }
+      },
     {
           "id": 47,
             "name":"Goblin",
@@ -2207,9 +2207,34 @@
             "episodeCount":16,
             "seasons":1,
             "releaseDate":"2 December 2016"
+          },
+
+          {
+            "id": 50,
+            "name":"Twenty-Five Twenty-One",
+            "imdbRating": 8.6,
+            "description":"“Twenty Five Twenty One” is a heartfelt South Korean drama starring Nam Joo-Hyuk as Baek Yi-Jin, a once wealthy son who lost it all, and Kim Tae-Ri as Na Hee-Do, a young aspiring fencer.",
+            "genre":["Romance"],
+            "platform":["Netflix"],
+            "trailer":"https://youtu.be/PBCXHOskDQ4",
+            "casting": {
+                "actors": [
+                  "Kim Tae-ri",
+                  "Choi Hyun-wook",
+                  "Nam Joo-hyuk ",
+                  "Bona",
+                  "Lee Joo-myung"
+                ],
+                "director": ["Jung Ji-hyun"]
+            },
+            "poster":"https://www.allkpop.com/upload/2022/01/content/110157/web_data/allkpop_1641884415_befunky-collage-39.jpg",
+            "episodeCount":16,
+            "seasons":1,
+            "releaseDate":"2 April 2022"
+
           }
   ]
-  ]
+  
   
   
   
