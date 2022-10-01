@@ -1,6 +1,7 @@
 [{
     "id": 1,
     "name": "The Heirs",
+    "alias":[],
     "imdbRating":7.5,
     "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
     "genre":["Drama","Romance","Teen"],
@@ -24,6 +25,7 @@
   {
   "id": 2,
     "name":"Hotel Del Luna",
+    "alias":[],
     "imdbRating": 8.2,
     "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
     "genre":["Romantic Comedy","Dark Fantasy"],
@@ -49,6 +51,7 @@
   {
     "id": 3,
         "name":"Prison Playbook",
+        "alias":[],
         "imdbRating": 8.5,
         "description":"Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
         "genre":["prison"],
@@ -77,6 +80,7 @@
   {
     "id": 3,
         "name":"Kill Heel",
+        "alias":[],
         "imdbRating": 6.5,
         "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
         "genre":["Drama, Thriller"],
@@ -100,6 +104,7 @@
   {
      "id": 4,
     "name":"what's wrong with secretary kim",
+    "alias":[],
     "imdbRating": 9.7,
     "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
     "genre":["Romantic Comedy"],
@@ -122,6 +127,7 @@
    
    "id":5,
     "name":"Tomorrow",
+    "alias":[],
     "imdbRating": 7.8,
     "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
     "genre":["Fantasy television"],
@@ -147,6 +153,7 @@
   {
     "id": 2,
           "name":"Hotel Del Luna",
+          "alias":[],
           "imdbRating": 8.2,
           "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
           "genre":["Romantic Comedy","Dark Fantasy"],
@@ -173,6 +180,7 @@
       {
       "id": 6,
     "name":"Vincenzo",
+    "alias":[],
     "imdbRating": 8.4,
     "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
     "genre":["Crime drama, dark fantacy"],
@@ -197,6 +205,7 @@
   {
            "id": 3,
           "name":"what's wrong with secretary kim",
+          "alias":[],
           "imdbRating": 9.7,
           "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
           "genre":["Romantic Comedy"],
@@ -217,6 +226,7 @@
          
          {  
           "name":"Tomorrow",
+          "alias":[],
           "imdbRating": 7.8,
           "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
           "genre":[" Fantasy television"],
@@ -242,6 +252,7 @@
   {
       "id": 4,
           "name":"Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre":["Crime drama, dark fantacy"],
@@ -266,6 +277,7 @@
   {
     "id": 1,
       "name": "The Heirs",
+      "alias":[],
       "imdbRating":7.5,
       "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
       "genre":["Drama","Romance","Teen"],
@@ -290,6 +302,7 @@
   {
   "id": 2,
       "name":"Hotel Del Luna",
+      "alias":[],
       "imdbRating": 8.2,
       "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
       "genre":["Romantic Comedy","Dark Fantasy"],
@@ -298,6 +311,7 @@
   {
   "id": 1,
   "name": "The Heirs",
+  "alias":[],
   "imdbRating":7.5,
   "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
   
@@ -307,6 +321,7 @@
       {
           "id": 4,
           "name": "Kill Heel",
+          "alias":[],
           "imdbRating": 6.5,
           "description": "A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
           "genre": ["Drama, Thriller"],
@@ -325,6 +340,7 @@
       {
           "id": 5,
           "name": "what's wrong with secretary kim",
+          "alias":[],
           "imdbRating": 9.7,
           "description": "Directed by Park Joon Hwa, “Whats Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, youll find yourself finishing the series in no time at all.",
           "genre": ["Romantic Comedy"],
@@ -343,6 +359,7 @@
       {
           "id": 6,
           "name": "Tomorrow",
+          "alias":[],
           "imdbRating": 7.8,
           "description": "Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
           "genre": ["Fantasy television"],
@@ -366,6 +383,7 @@
       {
           "id": 7,
           "name": "Hotel Del Luna",
+          "alias":[],
           "imdbRating": 8.2,
           "description": "When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
           "genre": ["Romantic Comedy", "Dark Fantasy"],
@@ -392,6 +410,7 @@
       {
           "id": 8,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -416,6 +435,7 @@
       {
           "id": 9,
           "name": "what's wrong with secretary kim",
+          "alias":[],
           "imdbRating": 9.7,
           "description": "Directed by Park Joon Hwa, “Whats Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, youll find yourself finishing the series in no time at all.",
           "genre": ["Romantic Comedy"],
@@ -434,6 +454,7 @@
       {
     "id": 10,
           "name": "Tomorrow",
+          "alias":[],
           "imdbRating": 7.8,
           "description": "Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
           "genre": [" Fantasy television"],
@@ -457,6 +478,7 @@
       {
           "id": 11,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -481,6 +503,7 @@
       {
           "id": 12,
           "name": "The Heirs",
+          "alias":[],
           "imdbRating": 7.5,
           "description": " The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
           "genre": ["Drama", "Romance", "Teen"],
@@ -506,6 +529,7 @@
       {
           "id": 13,
           "name": "The Heirs",
+          "alias":[],
           "imdbRating": 7.5,
           "description": " The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
       
@@ -530,6 +554,7 @@
   {
   "id": 2,
   "name":"Hotel Del Luna",
+  "alias":[],
   "imdbRating": 8.2,
   "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
   "genre":["Romantic Comedy","Dark Fantasy"],
@@ -555,6 +580,7 @@
   {
   "id": 3,
     "name":"Prison Playbook",
+    "alias":[],
     "imdbRating": 8.5,
     "description":"Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
     "genre":["prison"],
@@ -581,6 +607,7 @@
   {
      "id": 3,
     "name":"what's wrong with secretary kim",
+    "alias":[],
     "imdbRating": 9.7,
     "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
     "genre":["Romantic Comedy"],
@@ -601,6 +628,7 @@
    
    {  
     "name":"Tomorrow",
+    "alias":[],
     "imdbRating": 7.8,
     "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
     "genre":[" Fantasy television"],
@@ -613,6 +641,7 @@
   {
   "id": 3,
     "name":"Kill Heel",
+    "alias":[],
     "imdbRating": 6.5,
     "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
     "genre":["Drama, Thriller"],
@@ -635,6 +664,7 @@
   {
   "id": 3,
     "name":"Vincenzo",
+    "alias":[],
     "imdbRating": 8.4,
     "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
     "genre":["Crime drama, dark fantacy"],
@@ -659,6 +689,7 @@
   {
   "id": 4,
     "name":"Extraordinary You",
+    "alias":[],
     "imdbRating": 7.8,
     "description":"They begin their mysterious adventure to find out the secret of the romance cartoon world, and they try to get their independent lives back",
     "genre":["Romance,Comedy,Fantasy"],
@@ -684,6 +715,7 @@
   {
   "id": 4,
   "name":"what's wrong with secretary kim",
+  "alias":[],
   "imdbRating": 9.7,
   "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
   "genre":["Romantic Comedy"],
@@ -706,6 +738,7 @@
   
   "id":5,
   "name":"Tomorrow",
+  "alias":[],
   "imdbRating": 7.8,
   "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
   "genre":["Fantasy television"],
@@ -731,6 +764,7 @@
   {
   "id": 2,
       "name":"Hotel Del Luna",
+      "alias":[],
       "imdbRating": 8.2,
       "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
       "genre":["Romantic Comedy","Dark Fantasy"],
@@ -756,6 +790,7 @@
   {
   "id": 6,
   "name":"Vincenzo",
+  "alias":[],
   "imdbRating": 8.4,
   "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
   "genre":["Crime drama, dark fantacy"],
@@ -780,6 +815,7 @@
   {
        "id": 3,
       "name":"what's wrong with secretary kim",
+      "alias":[],
       "imdbRating": 9.7,
       "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
       "genre":["Romantic Comedy"],
@@ -795,6 +831,7 @@
       {
         "id": 4,
           "name":"A Happy women",
+          "alias":[],
           "imdbRating": 7.6,
           "description":"As the titular happy woman Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
           "genre":["Romantic Comedy,Drama"],
@@ -820,6 +857,7 @@
   {
       "id": 5,
           "name":"Goblin The Lonely And Great God",
+          "alias":[],
           "imdbRating": "9.7",
           "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
           "genre":["Korean drama, Romance, Drama, Fantasy, Comedy"],
@@ -841,6 +879,7 @@
       {
       "id": 10,
     "name":"Vincenzo",
+    "alias":[],
     "imdbRating": 8.4,
     "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
     "genre":["Crime drama, dark fantacy"],
@@ -865,6 +904,7 @@
   {
   "id": 11,
     "name":"Our secret",
+    "alias":[],
     "imdbRating": 8.6,
     "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
     "genre":[" Romance, Life, Youth"],
@@ -890,6 +930,7 @@
     {
       "id": 13,
       "name":"Our secret",
+      "alias":[],
       "imdbRating": 8.6,
       "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
       "genre":[" Romance, Life, Youth"],
@@ -913,6 +954,7 @@
     },	   
      {  
       "name":"Tomorrow",
+      "alias":[],
       "imdbRating": 7.8,
       "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
       "genre":[" Fantasy television"],
@@ -938,6 +980,7 @@
   {
       "id": 6,
           "name":"Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre":["Crime drama, dark fantacy"],
@@ -962,6 +1005,7 @@
   {
       "id": 10,
           "name":"Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre":["Crime drama, dark fantacy"],
@@ -986,6 +1030,7 @@
   {
       "id":11,
       "name":"Sky Castle",
+       "alias":[],
        "imdbRating":7.0,
        "description":"this follows the lives of 4 women living in luxirious SKY Castle neighborhood",
         "genre":["DRAMA"],
@@ -1009,6 +1054,7 @@
       {
           "id": 11,
               "name":"Kill Heel",
+              "alias":[],
               "imdbRating": 6.5,
               "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
               "genre":["Drama, Thriller"],
@@ -1033,6 +1079,7 @@
   
    {  
           "name":"Tomorrow",
+          "alias":[],
           "imdbRating": 7.8,
           "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
           "genre":[" Fantasy television"],
@@ -1059,6 +1106,7 @@
       {
       "id": 12,
           "name":"Boys Over Flowers",
+          "alias":[],
           "imdbRating": 7.8,
           "description":"Poor girl attends the elite Shin Hwa High and is bullied by the leader of F4 (the four richest boys). He becomes attracted to her",
           "genre":[" Romantic Comedy"],
@@ -1084,6 +1132,7 @@
       {
           "id": 14,
           "name": "Hotel Del Luna",
+          "alias":[],
           "imdbRating": 8.2,
           "description": "When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
           "genre": ["Romantic Comedy", "Dark Fantasy"],
@@ -1109,6 +1158,7 @@
       {
           "id": 15,
           "name": "Prison Playbook",
+          "alias":[],
           "imdbRating": 8.5,
           "description": "Je-Hyeok (Park Hae-Soo) is the best relief pitcher in Korea. He will go to the U.S. and sign a contract with a major league team. One night, he hears his sister screaming and sees a man running out of her apartment. Je-Hyeok and the man get into a physical struggle with Je-Hyeok striking the man with a rock. Later, Je-Hyeok receives a 1 year prison sentence for using excessive force. Devastated, Je-Hyeok must adapt to life in prison.",
           "genre": ["prison"],
@@ -1134,6 +1184,7 @@
       {
           "id": 16,
           "name": "what's wrong with secretary kim",
+          "alias":[],
           "imdbRating": 9.7,
           "description": "Directed by Park Joon Hwa, “Whats Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, youll find yourself finishing the series in no time at all.",
           "genre": ["Romantic Comedy"],
@@ -1153,6 +1204,7 @@
       {
           "id": 17,
           "name": "Kill Heel",
+          "alias":[],
           "imdbRating": 6.5,
           "description": "A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
           "genre": ["Drama, Thriller"],
@@ -1170,6 +1222,7 @@
       {
           "id": 18,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -1194,6 +1247,7 @@
       {
           "id": 19,
           "name": "Extraordinary You",
+          "alias":[],
           "imdbRating": 7.8,
           "description": "They begin their mysterious adventure to find out the secret of the romance cartoon world, and they try to get their independent lives back",
           "genre": ["Romance,Comedy,Fantasy"],
@@ -1219,6 +1273,7 @@
       {
           "id": 20,
           "name": "what's wrong with secretary kim",
+          "alias":[],
           "imdbRating": 9.7,
           "description": "Directed by Park Joon Hwa, “Whats Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, youll find yourself finishing the series in no time at all.",
           "genre": ["Romantic Comedy"],
@@ -1237,6 +1292,7 @@
       {
           "id": 21,
           "name": "Tomorrow",
+          "alias":[],
           "imdbRating": 7.8,
           "description": "Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
           "genre": ["Fantasy television"],
@@ -1260,6 +1316,7 @@
       {
           "id": 22,
           "name": "Hotel Del Luna",
+          "alias":[],
           "imdbRating": 8.2,
           "description": "When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
           "genre": ["Romantic Comedy", "Dark Fantasy"],
@@ -1285,6 +1342,7 @@
       {
           "id": 23,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -1309,6 +1367,7 @@
       {
           "id": 24,
           "name": "A Happy women",
+          "alias":[],
           "imdbRating": 7.6,
           "description": "As the titular happy woman Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
           "genre": ["Romantic Comedy,Drama"],
@@ -1334,6 +1393,7 @@
       {
           "id": 25,
           "name": "Goblin The Lonely And Great God",
+          "alias":[],
           "imdbRating": "9.7",
           "description": "Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
           "genre": ["Korean drama, Romance, Drama, Fantasy, Comedy"],
@@ -1352,6 +1412,7 @@
   {
   "id":26,
       "name":"Secret Seven",
+      "alias":[],
       "imdbRating":8.5,
       "describtion":"This is the story of Padlom, a lonely girl who's afraid of love. However one day, someone told her that a guy secretly likes her, and this guy is supposed to be among these seven young men!",
       "genre":["School Romantic Drama"],
@@ -1378,6 +1439,7 @@
   {
   "id":27,
       "name":"Secret",
+      "alias":[],
       "imdbRating":9.5,
       "describtion":"This is the story of Padlom",
       "genre":["School"],
@@ -1401,6 +1463,7 @@
       {
           "id":28,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -1427,6 +1490,7 @@
       {
           "id":29,
           "name": "Our secret",
+          "alias":[],
           "imdbRating": 8.6,
           "description": "From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
           "genre": [" Romance, Life, Youth"],
@@ -1452,6 +1516,7 @@
       {
           "id": 30,
           "name": "Our secret",
+          "alias":[],
           "imdbRating": 8.6,
           "description": "From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
           "genre": [" Romance, Life, Youth"],
@@ -1478,6 +1543,7 @@
       {
     "id": 31,
           "name": "Tomorrow",
+          "alias":[],
           "imdbRating": 7.8,
           "description": "Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions..",
           "genre": [" Fantasy television"],
@@ -1503,6 +1569,7 @@
       {
           "id": 32,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -1529,6 +1596,7 @@
       {
           "id": 33,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -1555,6 +1623,7 @@
       {
           "id": 34,
           "name": "Kill Heel",
+          "alias":[],
           "imdbRating": 6.5,
           "description": "A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
           "genre": ["Drama, Thriller"],
@@ -1574,6 +1643,7 @@
   {
   "id": 10,
   "name":"Vincenzo",
+  "alias":[],
   "imdbRating": 8.4,
   "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
   "genre":["Crime drama, dark fantacy"],
@@ -1598,6 +1668,7 @@
   {
   "id": 11,
   "name":"Our secret",
+  "alias":[],
   "imdbRating": 8.6,
   "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
   "genre":[" Romance, Life, Youth"],
@@ -1623,6 +1694,7 @@
    {
   "id": 12,
   "name":"Moon Lovers: Scarlet Heart Ryeo",
+  "alias":[],
   "imdbRating": 8.7,
   "description":"is a South Korean television series based on the Chinese novel Bu Bu Jing Xin.",
   "genre":["Drama, Romance, Sageuk, Melodrama, Time travel, Fantasy"],
@@ -1642,6 +1714,7 @@
       {
           "id": 33,
           "name": "Boys Over Flowers",
+          "alias":[],
           "imdbRating": 7.8,
           "description": "Poor girl attends the elite Shin Hwa High and is bullied by the leader of F4 (the four richest boys). He becomes attracted to her",
           "genre": [" Romantic Comedy"],
@@ -1668,6 +1741,7 @@
   {
   "id":11,
       "name":"Secret Seven",
+      "alias":[],
       "imdbRating":8.5,
       "describtion":"This is the story of Padlom, a lonely girl who's afraid of love. However one day, someone told her that a guy secretly likes her, and this guy is supposed to be among these seven young men!",
       "genre":["School Romantic Drama"],
@@ -1694,6 +1768,7 @@
   {
     "id":13,
       "name":"Little Women",
+      "alias":[],
       "imdbRating":7.8,
       "describtion":"The story tells of how the sisters grow up, find love, and find their place in the world.",
       "genre":["Family Drama"],
@@ -1714,6 +1789,7 @@
     
           "id": 34,
           "name": "Secret Seven",
+          "alias":[],
           "imdbRating": 8.5,
           "describtion": "This is the story of Padlom, a lonely girl who's afraid of love. However one day, someone told her that a guy secretly likes her, and this guy is supposed to be among these seven young men!",
           "genre": ["School Romantic Drama"],
@@ -1743,6 +1819,7 @@
   {
       "id":568,
       "name":"Secret",
+      "alias":[],
       "imdbRating":9.5,
       "describtion":"This is the story of Padlom",
       "genre":["School"],
@@ -1757,6 +1834,7 @@
       {
           "id": 35,
           "name": "Little Women",
+          "alias":[],
           "imdbRating": 7.8,
           "describtion": "The story tells of how the sisters grow up, find love, and find their place in the world.",
           "genre": ["Family Drama"],
@@ -1782,6 +1860,7 @@
   {
   "id": 4,
       "name":"Vincenzo",
+      "alias":[],
       "imdbRating": 8.4,
       "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
       "genre":["Crime drama, dark fantacy"],
@@ -1806,6 +1885,7 @@
   {
   "id": 4,
       "name":"Crash Landing On You",
+      "alias":[],
       "imdbRating": 8.7,
       "description":"The stars of 'Crash Landing On You' make wedding plans. Actors Hyun Bin and Son Ye-jin who co-starred in the romantic 2019 Korean drama Crash Landing On You have announced their intention to wed. The drama focused on the character Se-ri, a South Korean heiress, played by Son, who accidentally lands in North Korea.",
   "genre":["Romantic Comedy"],
@@ -1829,6 +1909,7 @@
   {
   "id": 4,
       "name":"A Happy women",
+      "alias":[],
       "imdbRating": 7.6,
       "description":"As the titular happy woman Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
       "genre":["Romantic Comedy,Drama"],
@@ -1854,6 +1935,7 @@
   {
   "id": 5,
       "name":"Goblin The Lonely And Great God",
+      "alias":[],
       "imdbRating": "9.7",
       "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
       "genre":["Korean drama, Romance, Drama, Fantasy, Comedy"],
@@ -1874,6 +1956,7 @@
   {
   "id": 15,
   "name": "Strong Women Do Bong Soon",
+  "alias":[],
   "imdbRating": 8.2,
   "description": "A women born with superhuman strength is hired by the CEO of a gaming company,to be his bodyguard",
   "genre": ["Romantic comedy, Action, Fantasy, Thriller,Crime film"],
@@ -1900,6 +1983,7 @@
   {
   "id": 10,
   "name":"Vincenzo",
+  "alias":[],
   "imdbRating": 8.4,
   "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
   "genre":["Crime drama, dark fantacy"],
@@ -1924,6 +2008,7 @@
   {
   "id": 11,
   "name":"Our secret",
+  "alias":[],
   "imdbRating": 8.6,
   "description":"From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
   "genre":[" Romance, Life, Youth"],
@@ -1950,6 +2035,7 @@
       {
           "id": 36,
           "name": "Vincenzo",
+          "alias":[],
           "imdbRating": 8.4,
           "description": "During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice",
           "genre": ["Crime drama, dark fantacy"],
@@ -1974,6 +2060,7 @@
       {
           "id": 37,
           "name": "Crash Landing On You",
+          "alias":[],
           "imdbRating": 8.7,
           "description": "The stars of 'Crash Landing On You' make wedding plans. Actors Hyun Bin and Son Ye-jin who co-starred in the romantic 2019 Korean drama Crash Landing On You have announced their intention to wed. The drama focused on the character Se-ri, a South Korean heiress, played by Son, who accidentally lands in North Korea.",
           "genre": ["Romantic Comedy"],
@@ -1992,6 +2079,7 @@
       {
           "id": 38,
           "name": "A Happy women",
+          "alias":[],
           "imdbRating": 7.6,
           "description": "As the titular happy woman Lee Ji-yeon (Yoon Jung-hee) is an accessory designer with a cheerful, go-getting personality despite often being looked down upon because of her humble educational and family background. She ends up in a love triangle with her wealthy husband (Jung Gyu-woon) and a lonely detective (Kim Suk-hoon), as the drama explores what happiness means for a woman in terms of family, work, and love.",
           "genre": ["Romantic Comedy,Drama"],
@@ -2017,6 +2105,7 @@
   {
   "id": 13,
   "name":"what's wrong with secretary tom",
+  "alias":[],
   "imdbRating": 9.7,
   "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
   "genre":[" Romantic Comedy"],
@@ -2034,6 +2123,7 @@
       {
     "id": 5,
     "name": "The Heirs",
+    "alias":[],
     "imdbRating":7.5,
     "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way.",
     
@@ -2055,6 +2145,7 @@
   {
   "id": 25,
   "name":"extraordinary attorney woo",
+  "alias":[],
   "imdbRating": 8.9,
   "description":"She might be different from you and me but when it comes to delivering justice, you can bet that no case is too big or difficult for this newbie attorney to handle. Join her as she tackles challenges in the courtroom and beyond with the help of her friends and colleagues ",
   "genre":["Drama"]
@@ -2062,6 +2153,7 @@
   {
   "id": 40,
   "name":"Dream High",
+  "alias":[],
   "imdbRating": 7.6,
   "description":"Six dedicated students at Kirin Art High School work to achieve their dreams of becoming stars in the Korean music industry.",
   "genre":["Romantic Comedy,Music"],
@@ -2077,6 +2169,7 @@
       {
       "id": 41,
   "name":"Vincenzo",
+  "alias":[],
   "imdbRating": 8.4,
   "description":"During a visit to his motherland, a Korean-Italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice.",
   "genre":["Dark Comedy, Crime Film"],
@@ -2096,6 +2189,7 @@
       {
           "id": 42,
           "name": "Goblin The Lonely And Great God",
+          "alias":[],
           "imdbRating": "9.7",
           "description": "Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
           "genre": ["Korean drama, Romance, Drama, Fantasy, Comedy"],
@@ -2113,6 +2207,7 @@
       {
           "id": 43,
           "name": "Strong Women Do Bong Soon",
+          "alias":[],
           "imdbRating": 8.2,
           "description": "A women born with superhuman strength is hired by the CEO of a gaming company,to be his bodyguard",
           "genre": ["Romantic comedy, Action, Fantasy, Thriller,Crime film"],
@@ -2140,6 +2235,7 @@
       {
           "id": 44,
           "name": "Our secret",
+          "alias":[],
           "imdbRating": 8.6,
           "description": "From high school to university, Ding Xian and Zhou Si Yue's youthful love lasts for a lifetime. ",
           "genre": [" Romance, Life, Youth"],
@@ -2163,6 +2259,7 @@
       {
           "id": 45,
           "name":"what's wrong with secretary tom 2",
+          "alias":[],
           "imdbRating": 9.7,
           "description": "Directed by Park Joon Hwa, “Whats Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, youll find yourself finishing the series in no time at all.",
           "genre": ["Romantic Comedy"],
@@ -2176,6 +2273,7 @@
        {
           "id": 46,
           "name":"The Golden Spoon",
+          "alias":[],
           "imdbRating": 7.4,
           "description": "Based on Naver hit webtoon of the same name by HD3 which was published in 2016, the series depicts a life adventure of a child who became an acquired gold spoon",
           "genre": ["Life Adventure"],
@@ -2189,6 +2287,7 @@
     {
           "id": 47,
             "name":"Goblin",
+            "alias":[],
             "imdbRating": 8.6,
             "description":"Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one.",
             "genre":["Romance", "Fantasy", "Drama"],
@@ -2312,7 +2411,3 @@
                   "releaseDate":"27 July 2022"
                 }
   ]
-  
-  
-  
-  
