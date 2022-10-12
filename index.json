@@ -2391,7 +2391,7 @@
             "releaseDate":"2 April 2022"
 
           },
-  {
+          {
                 "id": 51,
                   "name":"Big Mouth",
                   "alias":[],
@@ -2413,5 +2413,27 @@
                   "episodeCount":16,
                   "seasons":1,
                   "releaseDate":"27 July 2022"
-                }
+          },
+          {
+                "id": 52,
+                  "name":"Thirty-Nine (2022)",
+                  "alias":[],
+                  "imdbRating": 8.12,
+                  "description":"This slice-of-life drama centers on a trio of best friends who meet in their second year of high school. As they grow into their late 30s together, they must weather through life’s challenges before reaching 40.",
+                  "genre":["Romance", "Fantasy", "Drama"],
+                  "platform":["Disney+Hotstar"],
+                  "trailer":"https://www.youtube.com/watch?v=ykQKCDPcqhA",
+                  "casting": {
+                      "actors": [
+                        "Son Ye Jin",
+                        "Jeon Mi Do",
+                        "Kim Ji Hyun"
+                      ],
+                      "director": ["Oh Chung-hwan" ,"Bae Hyun-jin"]
+                  },
+                  "poster":"https://i.mydramalist.com/v2bEX_4c.jpg?v=1",
+                  "episodeCount":12,
+                  "seasons":1,
+                  "releaseDate":"16 February 2022"
+          } 
   ]
